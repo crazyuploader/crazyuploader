@@ -9,7 +9,11 @@
     <a href="https://facebook.com/profile.php?id=100051213879144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amruthpillai" height="20" width="20" /></a>
 </p>
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [First Post](https://jugalkishore.me/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
