@@ -11,4 +11,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First Post](https://jugalkishore.me/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
