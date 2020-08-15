@@ -17,5 +17,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. ❗️ Closed issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+3. 🗣 Commented on [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+4. ❗️ Opened issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+5. 🎉 Merged PR [#8](https://github.com//crazyuploader/IntelliK/pull/8) in [crazyuploader/IntelliK](https://github.com//crazyuploader/IntelliK)
+<!--END_SECTION:activity-->
 
 
