@@ -18,10 +18,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. ❗️ Closed issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
-4. 🗣 Commented on [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
-5. ❗️ Opened issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+2. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. ❗️ Closed issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+5. 🗣 Commented on [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
 <!--END_SECTION:activity-->
 
 
