@@ -17,11 +17,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#9](https://github.com//crazyuploader/covid-box/pull/9) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
 2. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. ❗️ Closed issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
-5. 🗣 Commented on [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+3. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. ❗️ Closed issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
 <!--END_SECTION:activity-->
 
 
