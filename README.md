@@ -17,11 +17,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//crazyuploader/covid-box/pull/9) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
-2. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. ❗️ Opened issue [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
+2. 🎉 Merged PR [#9](https://github.com//crazyuploader/covid-box/pull/9) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
 3. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. ❗️ Closed issue [#1](https://github.com//PiyushSuthar/github-readme-quotes/issues/1) in [PiyushSuthar/github-readme-quotes](https://github.com//PiyushSuthar/github-readme-quotes)
+4. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. ❗️ Opened issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
