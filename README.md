@@ -17,11 +17,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com//crazyuploader/activity-box/pull/12) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
-2. 🎉 Merged PR [#20](https://github.com//crazyuploader/Android_Test_Apps/pull/20) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
-3. 🎉 Merged PR [#28](https://github.com//crazyuploader/Covid19/pull/28) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
-4. 🎉 Merged PR [#11](https://github.com//crazyuploader/activity-box/pull/11) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
-5. ❗️ Opened issue [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
+1. 🎉 Merged PR [#14](https://github.com//crazyuploader/activity-box/pull/14) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+2. 🎉 Merged PR [#13](https://github.com//crazyuploader/activity-box/pull/13) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+3. 🎉 Merged PR [#12](https://github.com//crazyuploader/activity-box/pull/12) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+4. 🎉 Merged PR [#20](https://github.com//crazyuploader/Android_Test_Apps/pull/20) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
+5. 🎉 Merged PR [#28](https://github.com//crazyuploader/Covid19/pull/28) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
 <!--END_SECTION:activity-->
 
 
