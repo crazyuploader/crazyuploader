@@ -17,11 +17,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com//crazyuploader/Android_Test_Apps/pull/23) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
-2. 🎉 Merged PR [#24](https://github.com//crazyuploader/Android_Test_Apps/pull/24) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
-3. 🎉 Merged PR [#32](https://github.com//crazyuploader/Covid19/pull/32) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
-4. 🎉 Merged PR [#22](https://github.com//crazyuploader/Android_Test_Apps/pull/22) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
-5. 🎉 Merged PR [#29](https://github.com//crazyuploader/Covid19/pull/29) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
+1. 🎉 Merged PR [#31](https://github.com//crazyuploader/Covid19/pull/31) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
+2. 🎉 Merged PR [#23](https://github.com//crazyuploader/Android_Test_Apps/pull/23) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
+3. 🎉 Merged PR [#24](https://github.com//crazyuploader/Android_Test_Apps/pull/24) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
+4. 🎉 Merged PR [#32](https://github.com//crazyuploader/Covid19/pull/32) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
+5. 🎉 Merged PR [#22](https://github.com//crazyuploader/Android_Test_Apps/pull/22) in [crazyuploader/Android_Test_Apps](https://github.com//crazyuploader/Android_Test_Apps)
 <!--END_SECTION:activity-->
 
 
