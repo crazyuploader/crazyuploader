@@ -19,9 +19,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
 2. 🗣 Commented on [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
-3. 🎉 Merged PR [#33](https://github.com//crazyuploader/Covid19/pull/33) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
-4. 🗣 Commented on [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
-5. 🎉 Merged PR [#30](https://github.com//crazyuploader/Covid19/pull/30) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
+3. 🗣 Commented on [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
+4. 🎉 Merged PR [#33](https://github.com//crazyuploader/Covid19/pull/33) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
+5. 🗣 Commented on [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
 <!--END_SECTION:activity-->
 
 
