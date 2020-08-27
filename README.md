@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Jugal Kishore.</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=crazyuploader" /></p>
+<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=crazyuploader" /></p>-->
 <p align="center"><img src="https://readme-stats.jugalkishore.me//api?username=crazyuploader" /></p>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>
 <p align="center">
