@@ -23,4 +23,4 @@
 5. 🗣 Commented on [#47](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/47) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
 <!--END_SECTION:activity-->
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>
+<!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
