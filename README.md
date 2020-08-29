@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Jugal Kishore.</h1>
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=crazyuploader" /></p>-->
-<p align="center"><img src="https://readme-stats.jugalkishore.me//api?username=crazyuploader" /></p>
+<p align="center"><img src="https://readme-stats.jugalkishore.me/api?username=crazyuploader&title_color=333&text_color=777" /></p>
 <p align="center">
     <a href="https://dev.to/crazyuploader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Jugal Kishore" height="20" width="20" /></a>&emsp;
     <a href="https://twitter.com/crazyjugal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kingokings" height="20" width="20" /></a>&emsp;
