@@ -8,21 +8,11 @@
     <a href="https://facebook.com/profile.php?id=100051213879144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Jugal Kishore" height="20" width="20" /></a>
 </p>
 <p align="center">
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/crazyuploader/crazyuploader?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/crazyuploader?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/crazyuploader?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/gists/crazyuploader?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/crazyuploader?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 ### Blog Posts
