@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com//crazyuploader/activity-box/pull/18) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
-2. 🎉 Merged PR [#12](https://github.com//crazyuploader/covid-box/pull/12) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
-3. 🎉 Merged PR [#17](https://github.com//crazyuploader/activity-box/pull/17) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
-4. 🎉 Merged PR [#11](https://github.com//crazyuploader/IntelliK/pull/11) in [crazyuploader/IntelliK](https://github.com//crazyuploader/IntelliK)
-5. 🎉 Merged PR [#34](https://github.com//crazyuploader/Covid19/pull/34) in [crazyuploader/Covid19](https://github.com//crazyuploader/Covid19)
+1. 🎉 Merged PR [#19](https://github.com//crazyuploader/activity-box/pull/19) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+2. 🎉 Merged PR [#18](https://github.com//crazyuploader/activity-box/pull/18) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+3. 🎉 Merged PR [#12](https://github.com//crazyuploader/covid-box/pull/12) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
+4. 🎉 Merged PR [#17](https://github.com//crazyuploader/activity-box/pull/17) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+5. 🎉 Merged PR [#11](https://github.com//crazyuploader/IntelliK/pull/11) in [crazyuploader/IntelliK](https://github.com//crazyuploader/IntelliK)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
