@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com//crazyuploader/covid-box/pull/14) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
-2. 🎉 Merged PR [#13](https://github.com//crazyuploader/covid-box/pull/13) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
-3. ❗️ Closed issue [#50](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/50) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
-4. 🗣 Commented on [#50](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/50) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
-5. ❗️ Opened issue [#50](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/50) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
+1. 🎉 Merged PR [#20](https://github.com//crazyuploader/activity-box/pull/20) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
+2. 🎉 Merged PR [#14](https://github.com//crazyuploader/covid-box/pull/14) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
+3. 🎉 Merged PR [#13](https://github.com//crazyuploader/covid-box/pull/13) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
+4. ❗️ Closed issue [#50](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/50) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
+5. 🗣 Commented on [#50](https://github.com//RIPE-NCC/ripe-atlas-software-probe/issues/50) in [RIPE-NCC/ripe-atlas-software-probe](https://github.com//RIPE-NCC/ripe-atlas-software-probe)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
