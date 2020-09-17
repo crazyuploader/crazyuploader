@@ -25,9 +25,9 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//crazyuploader/bombsquad-docker/pull/1) in [crazyuploader/bombsquad-docker](https://github.com//crazyuploader/bombsquad-docker)
 2. 💪 Opened PR [#1](https://github.com//crazyuploader/bombsquad-docker/pull/1) in [crazyuploader/bombsquad-docker](https://github.com//crazyuploader/bombsquad-docker)
-3. 🎉 Merged PR [#20](https://github.com//crazyuploader/activity-box/pull/20) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
-4. 🎉 Merged PR [#14](https://github.com//crazyuploader/covid-box/pull/14) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
-5. 🎉 Merged PR [#13](https://github.com//crazyuploader/covid-box/pull/13) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
+3. 🎉 Merged PR [#1](https://github.com//crazyuploader/bombsquad-docker/pull/1) in [crazyuploader/bombsquad-docker](https://github.com//crazyuploader/bombsquad-docker)
+4. 💪 Opened PR [#1](https://github.com//crazyuploader/bombsquad-docker/pull/1) in [crazyuploader/bombsquad-docker](https://github.com//crazyuploader/bombsquad-docker)
+5. 🎉 Merged PR [#20](https://github.com//crazyuploader/activity-box/pull/20) in [crazyuploader/activity-box](https://github.com//crazyuploader/activity-box)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
