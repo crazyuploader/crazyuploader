@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#1](https://github.com//crazyuploader/testtt/pull/1) in [crazyuploader/testtt](https://github.com//crazyuploader/testtt)
-3. 💪 Opened PR [#1](https://github.com//crazyuploader/testtt/pull/1) in [crazyuploader/testtt](https://github.com//crazyuploader/testtt)
-4. 🎉 Merged PR [#1](https://github.com//crazyuploader/bombsquad-docker/pull/1) in [crazyuploader/bombsquad-docker](https://github.com//crazyuploader/bombsquad-docker)
-5. 💪 Opened PR [#1](https://github.com//crazyuploader/bombsquad-docker/pull/1) in [crazyuploader/bombsquad-docker](https://github.com//crazyuploader/bombsquad-docker)
+1. 💪 Opened PR [#33](https://github.com//jamesgeorge007/github-activity-readme/pull/33) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#1](https://github.com//crazyuploader/testtt/pull/1) in [crazyuploader/testtt](https://github.com//crazyuploader/testtt)
+5. 💪 Opened PR [#1](https://github.com//crazyuploader/testtt/pull/1) in [crazyuploader/testtt](https://github.com//crazyuploader/testtt)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
