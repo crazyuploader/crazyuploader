@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//crazyuploader/my-first-react-app/pull/9) in [crazyuploader/my-first-react-app](https://github.com//crazyuploader/my-first-react-app)
-2. 💪 Opened PR [#33](https://github.com//jamesgeorge007/github-activity-readme/pull/33) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. ❗️ Opened issue [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#1](https://github.com//crazyuploader/testtt/pull/1) in [crazyuploader/testtt](https://github.com//crazyuploader/testtt)
+1. 🎉 Merged PR [#15](https://github.com//crazyuploader/covid-box/pull/15) in [crazyuploader/covid-box](https://github.com//crazyuploader/covid-box)
+2. 🎉 Merged PR [#9](https://github.com//crazyuploader/my-first-react-app/pull/9) in [crazyuploader/my-first-react-app](https://github.com//crazyuploader/my-first-react-app)
+3. 💪 Opened PR [#33](https://github.com//jamesgeorge007/github-activity-readme/pull/33) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. ❗️ Opened issue [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
