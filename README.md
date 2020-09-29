@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/crazyuploader/IMDB_TOP_50/pull/4) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-2. 🎉 Merged PR [#1](https://github.com/crazyuploader/TIL/pull/1) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-3. 💪 Opened PR [#1](https://github.com/crazyuploader/TIL/pull/1) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-4. 🎉 Merged PR [#15](https://github.com/crazyuploader/covid-box/pull/15) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
-5. 🎉 Merged PR [#9](https://github.com/crazyuploader/my-first-react-app/pull/9) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+1. 🎉 Merged PR [#2](https://github.com/crazyuploader/TIL/pull/2) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+2. 💪 Opened PR [#2](https://github.com/crazyuploader/TIL/pull/2) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+3. 🎉 Merged PR [#4](https://github.com/crazyuploader/IMDB_TOP_50/pull/4) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+4. 🎉 Merged PR [#1](https://github.com/crazyuploader/TIL/pull/1) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+5. 💪 Opened PR [#1](https://github.com/crazyuploader/TIL/pull/1) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
