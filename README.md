@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1852](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/1852) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
-2. 🎉 Merged PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
-3. 💪 Opened PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
-4. 🎉 Merged PR [#11](https://github.com/crazyuploader/my-first-react-app/pull/11) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
-5. 🎉 Merged PR [#5](https://github.com/crazyuploader/IMDB_TOP_50/pull/5) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+1. 🎉 Merged PR [#23](https://github.com/crazyuploader/activity-box/pull/23) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+2. 💪 Opened PR [#1852](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/1852) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
+3. 🎉 Merged PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+4. 💪 Opened PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+5. 🎉 Merged PR [#11](https://github.com/crazyuploader/my-first-react-app/pull/11) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
