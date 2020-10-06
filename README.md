@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/crazyuploader/my-first-react-app/pull/11) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/IMDB_TOP_50/pull/5) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-3. 🎉 Merged PR [#21](https://github.com/crazyuploader/Python/pull/21) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🎉 Merged PR [#22](https://github.com/crazyuploader/activity-box/pull/22) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-5. 🎉 Merged PR [#18](https://github.com/crazyuploader/covid-box/pull/18) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+1. 🎉 Merged PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+2. 💪 Opened PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+3. 🎉 Merged PR [#11](https://github.com/crazyuploader/my-first-react-app/pull/11) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+4. 🎉 Merged PR [#5](https://github.com/crazyuploader/IMDB_TOP_50/pull/5) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+5. 🎉 Merged PR [#21](https://github.com/crazyuploader/Python/pull/21) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
