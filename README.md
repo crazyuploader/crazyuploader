@@ -25,11 +25,11 @@
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3281](https://github.com/topjohnwu/Magisk/issues/3281) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-2. 🎉 Merged PR [#37](https://github.com/crazyuploader/Covid19/pull/37) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-3. 🎉 Merged PR [#26](https://github.com/crazyuploader/Android_Test_Apps/pull/26) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-4. 🎉 Merged PR [#35](https://github.com/crazyuploader/Covid19/pull/35) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-5. 🎉 Merged PR [#25](https://github.com/crazyuploader/Android_Test_Apps/pull/25) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+1. 🗣 Commented on [#3281](https://github.com/topjohnwu/Magisk/issues/3281) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+2. ❗️ Opened issue [#3281](https://github.com/topjohnwu/Magisk/issues/3281) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+3. 🎉 Merged PR [#37](https://github.com/crazyuploader/Covid19/pull/37) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+4. 🎉 Merged PR [#26](https://github.com/crazyuploader/Android_Test_Apps/pull/26) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+5. 🎉 Merged PR [#35](https://github.com/crazyuploader/Covid19/pull/35) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
 <!--END_SECTION:activity-->
 </details>
 
