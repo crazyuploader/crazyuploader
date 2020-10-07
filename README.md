@@ -23,11 +23,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/crazyuploader/Covid19/pull/35) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-2. 🎉 Merged PR [#25](https://github.com/crazyuploader/Android_Test_Apps/pull/25) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-3. 🎉 Merged PR [#23](https://github.com/crazyuploader/activity-box/pull/23) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-4. 💪 Opened PR [#1852](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/1852) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
-5. 🎉 Merged PR [#12](https://github.com/crazyuploader/my-first-react-app/pull/12) in [crazyuploader/my-first-react-app](https://github.com/crazyuploader/my-first-react-app)
+1. 🎉 Merged PR [#37](https://github.com/crazyuploader/Covid19/pull/37) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+2. 🎉 Merged PR [#26](https://github.com/crazyuploader/Android_Test_Apps/pull/26) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+3. 🎉 Merged PR [#35](https://github.com/crazyuploader/Covid19/pull/35) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+4. 🎉 Merged PR [#25](https://github.com/crazyuploader/Android_Test_Apps/pull/25) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+5. 🎉 Merged PR [#23](https://github.com/crazyuploader/activity-box/pull/23) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
 <!--END_SECTION:activity-->
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
