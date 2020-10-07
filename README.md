@@ -16,11 +16,13 @@
 </p>
 
 ### Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [First Post](https://jugalkishore.me/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
-### Recent Activity
+<details>
+    <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#37](https://github.com/crazyuploader/Covid19/pull/37) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
@@ -29,5 +31,6 @@
 4. 🎉 Merged PR [#25](https://github.com/crazyuploader/Android_Test_Apps/pull/25) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
 5. 🎉 Merged PR [#23](https://github.com/crazyuploader/activity-box/pull/23) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
 <!--END_SECTION:activity-->
+</details>
 
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
