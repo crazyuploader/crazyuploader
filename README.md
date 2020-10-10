@@ -15,11 +15,13 @@
     <img src="https://badges.pufler.dev/commits/monthly/crazyuploader?style=flat-square&color=black&logo=github">
 </p>
 
-### Blog Posts
+<details>
+    <summary><b>Blog Posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [First Post](https://jugalkishore.me/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
 <details>
     <summary><b>Recent Activity</b></summary>
