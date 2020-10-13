@@ -27,11 +27,11 @@
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/crazyuploader/Covid19/pull/39) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-2. 🎉 Merged PR [#38](https://github.com/crazyuploader/Covid19/pull/38) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-3. 🎉 Merged PR [#20](https://github.com/crazyuploader/covid-box/pull/20) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
-4. ❌ Closed PR [#1852](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/1852) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
-5. 🎉 Merged PR [#19](https://github.com/crazyuploader/covid-box/pull/19) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+1. 🎉 Merged PR [#24](https://github.com/crazyuploader/activity-box/pull/24) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+2. 🎉 Merged PR [#39](https://github.com/crazyuploader/Covid19/pull/39) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+3. 🎉 Merged PR [#38](https://github.com/crazyuploader/Covid19/pull/38) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+4. 🎉 Merged PR [#20](https://github.com/crazyuploader/covid-box/pull/20) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+5. ❌ Closed PR [#1852](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/1852) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
 <!--END_SECTION:activity-->
 </details>
 
