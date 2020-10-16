@@ -23,6 +23,10 @@
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/CI/CD-Travis%20CI-informational?style=flat&logo=travis-ci&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-Circle%20CI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-Semaphore%20CI-informational?style=flat&logo=semaphore-ci&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Cloud-Amazon%20Web%20Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 
