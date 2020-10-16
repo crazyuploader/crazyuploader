@@ -2,7 +2,7 @@
 
 # GitHub Stats
 
-<p align="center"><img src="https://readme-stats.jugalkishore.me/api?username=crazyuploader /></p>
+<p align="center"><img src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" /></p>
 
 <details>
     <summary><b>Blog Posts</b></summary>
