@@ -2,7 +2,7 @@
 
 # GitHub Stats
 
-<a href="https://github.com/crazyuploader"><img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&exclude_repo=Kernel,dragontc&layout=compact" /></a>
+<a href="https://github.com/crazyuploader"><img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc&langs_count=6&layout=compact" /></a>
 <a href="https://github.com/crazyuploader"><img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" /></a>
 
 <details>
