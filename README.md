@@ -2,8 +2,8 @@
 
 # GitHub Stats
 
-<a href="https://jugalkishore.me"><img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&exclude_repo=Kernel,dragontc&layout=compact" /></a>
-<a href="https://jugalkishore.me"><img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" /></a>
+<a href="https://github.com/crazyuploader"><img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&exclude_repo=Kernel,dragontc&layout=compact" /></a>
+<a href="https://github.com/crazyuploader"><img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" /></a>
 
 <details>
     <summary><b>Blog Posts</b></summary>
