@@ -11,10 +11,12 @@
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plus-plus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markup%20Language-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markup%20Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JS%20FrameWork-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
 
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
