@@ -2,6 +2,7 @@
 
 # GitHub Stats
 
+<a><img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&exclude_repo=Kernel,dragontc&layout=compact" /></a>
 <a><img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" /></a>
 
 <details>
