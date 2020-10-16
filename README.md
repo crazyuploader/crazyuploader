@@ -1,6 +1,8 @@
 [![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.gif "Header")](https://jugalkishore.me/)
 
-<p align="center"><img src="https://readme-stats.jugalkishore.me/api?username=crazyuploader&title_color=333&text_color=777" /></p>
+# GitHub Stats
+
+<p align="center"><img src="https://readme-stats.jugalkishore.me/api?username=crazyuploader /></p>
 
 <details>
     <summary><b>Blog Posts</b></summary>
