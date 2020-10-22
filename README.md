@@ -1,4 +1,7 @@
-[![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.gif "Header")](https://jugalkishore.me/)
+<!--[![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.gif "Header")](https://jugalkishore.me/)-->
+
+## Hey There 👋
+My name is **Jugal Kishore**, student, crazy about computers, networks, and stars. I'm from **Agra, India**.
 
 ## Technologies & Tools
 
