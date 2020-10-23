@@ -60,11 +60,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/crazyuploader/TIL/pull/3) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-2. ❗️ Opened issue [#16](https://github.com/IndianOpenSourceFoundation/hello-hacktober/issues/16) in [IndianOpenSourceFoundation/hello-hacktober](https://github.com/IndianOpenSourceFoundation/hello-hacktober)
-3. 🎉 Merged PR [#20](https://github.com/crazyuploader/Docker-Builder/pull/20) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 💪 Opened PR [#20](https://github.com/crazyuploader/Docker-Builder/pull/20) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 🎉 Merged PR [#19](https://github.com/crazyuploader/Docker-Builder/pull/19) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+1. 🎉 Merged PR [#3](https://github.com/crazyuploader/TIL/pull/3) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+2. 💪 Opened PR [#3](https://github.com/crazyuploader/TIL/pull/3) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+3. ❗️ Opened issue [#16](https://github.com/IndianOpenSourceFoundation/hello-hacktober/issues/16) in [IndianOpenSourceFoundation/hello-hacktober](https://github.com/IndianOpenSourceFoundation/hello-hacktober)
+4. 🎉 Merged PR [#20](https://github.com/crazyuploader/Docker-Builder/pull/20) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 💪 Opened PR [#20](https://github.com/crazyuploader/Docker-Builder/pull/20) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
