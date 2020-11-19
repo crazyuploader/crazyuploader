@@ -60,11 +60,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/crazyuploader/Android_Test_Apps/pull/33) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-2. 🎉 Merged PR [#48](https://github.com/crazyuploader/Covid19/pull/48) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-3. 🎉 Merged PR [#13](https://github.com/crazyuploader/IntelliK/pull/13) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-4. 🎉 Merged PR [#22](https://github.com/crazyuploader/Python/pull/22) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 🎉 Merged PR [#6](https://github.com/crazyuploader/IMDB_TOP_50/pull/6) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+1. 💪 Opened PR [#3](https://github.com/upptime/upptime.js.org/pull/3) in [upptime/upptime.js.org](https://github.com/upptime/upptime.js.org)
+2. 🎉 Merged PR [#33](https://github.com/crazyuploader/Android_Test_Apps/pull/33) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+3. 🎉 Merged PR [#48](https://github.com/crazyuploader/Covid19/pull/48) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+4. 🎉 Merged PR [#13](https://github.com/crazyuploader/IntelliK/pull/13) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+5. 🎉 Merged PR [#22](https://github.com/crazyuploader/Python/pull/22) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
