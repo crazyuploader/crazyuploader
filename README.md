@@ -60,11 +60,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/crazyuploader/upp/issues/1) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
-2. ❗️ Opened issue [#1](https://github.com/crazyuploader/upp/issues/1) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
-3. 💪 Opened PR [#3](https://github.com/upptime/upptime.js.org/pull/3) in [upptime/upptime.js.org](https://github.com/upptime/upptime.js.org)
-4. 🎉 Merged PR [#33](https://github.com/crazyuploader/Android_Test_Apps/pull/33) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-5. 🎉 Merged PR [#48](https://github.com/crazyuploader/Covid19/pull/48) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+1. ❗️ Closed issue [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+2. 🗣 Commented on [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+3. ❗️ Closed issue [#5](https://github.com/crazyuploader/upp/issues/5) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+4. 🗣 Commented on [#5](https://github.com/crazyuploader/upp/issues/5) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+5. ❗️ Closed issue [#4](https://github.com/crazyuploader/upp/issues/4) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
 <!--END_SECTION:activity-->
 </details>
 
