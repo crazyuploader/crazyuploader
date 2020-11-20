@@ -60,11 +60,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
-2. 🗣 Commented on [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
-3. ❗️ Closed issue [#5](https://github.com/crazyuploader/upp/issues/5) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
-4. 🗣 Commented on [#5](https://github.com/crazyuploader/upp/issues/5) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
-5. ❗️ Closed issue [#4](https://github.com/crazyuploader/upp/issues/4) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+1. 🎉 Merged PR [#14](https://github.com/crazyuploader/IntelliK/pull/14) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+2. ❗️ Closed issue [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+3. 🗣 Commented on [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+4. ❗️ Closed issue [#5](https://github.com/crazyuploader/upp/issues/5) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+5. 🗣 Commented on [#5](https://github.com/crazyuploader/upp/issues/5) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
 <!--END_SECTION:activity-->
 </details>
 
