@@ -63,11 +63,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/crazyuploader/IMDB_TOP_50/pull/7) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-2. 💪 Opened PR [#7](https://github.com/crazyuploader/IMDB_TOP_50/pull/7) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-3. 🎉 Merged PR [#31](https://github.com/crazyuploader/activity-box/pull/31) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-4. 🎉 Merged PR [#14](https://github.com/crazyuploader/IntelliK/pull/14) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-5. ❗️ Closed issue [#6](https://github.com/crazyuploader/upp/issues/6) in [crazyuploader/upp](https://github.com/crazyuploader/upp)
+1. 🎉 Merged PR [#3](https://github.com/crazyuploader/Bash/pull/3) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
+2. 💪 Opened PR [#3](https://github.com/crazyuploader/Bash/pull/3) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
+3. 🎉 Merged PR [#7](https://github.com/crazyuploader/IMDB_TOP_50/pull/7) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+4. 💪 Opened PR [#7](https://github.com/crazyuploader/IMDB_TOP_50/pull/7) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+5. 🎉 Merged PR [#31](https://github.com/crazyuploader/activity-box/pull/31) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
 <!--END_SECTION:activity-->
 </details>
 
