@@ -63,11 +63,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/crazyuploader/Docker-Builder/pull/21) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 💪 Opened PR [#21](https://github.com/crazyuploader/Docker-Builder/pull/21) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#3](https://github.com/crazyuploader/Bash/pull/3) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
-4. 💪 Opened PR [#3](https://github.com/crazyuploader/Bash/pull/3) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
-5. 🎉 Merged PR [#7](https://github.com/crazyuploader/IMDB_TOP_50/pull/7) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+1. 🎉 Merged PR [#24](https://github.com/crazyuploader/covid-box/pull/24) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+2. 🎉 Merged PR [#21](https://github.com/crazyuploader/Docker-Builder/pull/21) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 💪 Opened PR [#21](https://github.com/crazyuploader/Docker-Builder/pull/21) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+4. 🎉 Merged PR [#3](https://github.com/crazyuploader/Bash/pull/3) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
+5. 💪 Opened PR [#3](https://github.com/crazyuploader/Bash/pull/3) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
 <!--END_SECTION:activity-->
 </details>
 
