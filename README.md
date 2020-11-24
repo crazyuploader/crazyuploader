@@ -63,11 +63,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/crazyuploader/Java/pull/1) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
-2. 💪 Opened PR [#1](https://github.com/crazyuploader/Java/pull/1) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
-3. 🎉 Merged PR [#24](https://github.com/crazyuploader/covid-box/pull/24) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
-4. 🎉 Merged PR [#21](https://github.com/crazyuploader/Docker-Builder/pull/21) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 💪 Opened PR [#21](https://github.com/crazyuploader/Docker-Builder/pull/21) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+1. 🎉 Merged PR [#3](https://github.com/crazyuploader/Java/pull/3) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
+2. 💪 Opened PR [#3](https://github.com/crazyuploader/Java/pull/3) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
+3. 🎉 Merged PR [#2](https://github.com/crazyuploader/Java/pull/2) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
+4. 💪 Opened PR [#2](https://github.com/crazyuploader/Java/pull/2) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
+5. 🎉 Merged PR [#1](https://github.com/crazyuploader/Java/pull/1) in [crazyuploader/Java](https://github.com/crazyuploader/Java)
 <!--END_SECTION:activity-->
 </details>
 
