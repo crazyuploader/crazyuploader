@@ -63,11 +63,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 💪 Opened PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 🗣 Commented on [#666](https://github.com/gitpod-io/gitpod/issues/666) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🎉 Merged PR [#32](https://github.com/crazyuploader/activity-box/pull/32) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-5. ❗️ Opened issue [#296](https://github.com/YTVanced/VancedManager/issues/296) in [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
+1. 💪 Opened PR [#18](https://github.com/frdmn/docker-speedtest-grafana/pull/18) in [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana)
+2. 🎉 Merged PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 💪 Opened PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🗣 Commented on [#666](https://github.com/gitpod-io/gitpod/issues/666) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 🎉 Merged PR [#32](https://github.com/crazyuploader/activity-box/pull/32) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
 <!--END_SECTION:activity-->
 </details>
 
