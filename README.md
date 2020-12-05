@@ -63,11 +63,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/frdmn/docker-speedtest-grafana/pull/18) in [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana)
-2. 🎉 Merged PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 💪 Opened PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🗣 Commented on [#666](https://github.com/gitpod-io/gitpod/issues/666) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🎉 Merged PR [#32](https://github.com/crazyuploader/activity-box/pull/32) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+1. 💪 Opened PR [#1](https://github.com/crazyuploader/Tended/pull/1) in [crazyuploader/Tended](https://github.com/crazyuploader/Tended)
+2. 💪 Opened PR [#18](https://github.com/frdmn/docker-speedtest-grafana/pull/18) in [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana)
+3. 🎉 Merged PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 💪 Opened PR [#23](https://github.com/crazyuploader/Python/pull/23) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+5. 🗣 Commented on [#666](https://github.com/gitpod-io/gitpod/issues/666) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 </details>
 
