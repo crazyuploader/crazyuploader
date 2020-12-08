@@ -63,11 +63,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#666](https://github.com/gitpod-io/gitpod/issues/666) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🎉 Merged PR [#15](https://github.com/crazyuploader/IntelliK/pull/15) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-3. 💪 Opened PR [#18](https://github.com/masonr/yet-another-bench-script/pull/18) in [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)
-4. 🎉 Merged PR [#4](https://github.com/crazyuploader/Bash/pull/4) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
-5. 💪 Opened PR [#4](https://github.com/crazyuploader/Bash/pull/4) in [crazyuploader/Bash](https://github.com/crazyuploader/Bash)
+1. 🎉 Merged PR [#33](https://github.com/crazyuploader/activity-box/pull/33) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+2. 🎉 Merged PR [#25](https://github.com/crazyuploader/covid-box/pull/25) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+3. 🗣 Commented on [#666](https://github.com/gitpod-io/gitpod/issues/666) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🎉 Merged PR [#15](https://github.com/crazyuploader/IntelliK/pull/15) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+5. 💪 Opened PR [#18](https://github.com/masonr/yet-another-bench-script/pull/18) in [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)
 <!--END_SECTION:activity-->
 </details>
 
