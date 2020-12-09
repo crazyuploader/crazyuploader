@@ -3,6 +3,8 @@
 ## Hey There 👋
 My name is **Jugal Kishore**, student, crazy about computers, networks, and stars. I'm from **Agra, India**.
 
+[![Contributions](https://github4life.herokuapp.com/crazyuploader.gif)](https://github4life.herokuapp.com/crazyuploader)
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
