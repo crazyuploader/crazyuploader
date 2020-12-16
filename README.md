@@ -65,11 +65,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/crazyuploader/Python/pull/24) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🎉 Merged PR [#34](https://github.com/crazyuploader/activity-box/pull/34) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-3. 🎉 Merged PR [#1](https://github.com/crazyuploader/Ookla-Servers-Latency/pull/1) in [crazyuploader/Ookla-Servers-Latency](https://github.com/crazyuploader/Ookla-Servers-Latency)
-4. 💪 Opened PR [#1](https://github.com/crazyuploader/Ookla-Servers-Latency/pull/1) in [crazyuploader/Ookla-Servers-Latency](https://github.com/crazyuploader/Ookla-Servers-Latency)
-5. ❌ Closed PR [#65](https://github.com/BlitzKraft/saythanks.io/pull/65) in [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io)
+1. 🎉 Merged PR [#25](https://github.com/crazyuploader/Python/pull/25) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 🎉 Merged PR [#24](https://github.com/crazyuploader/Python/pull/24) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🎉 Merged PR [#34](https://github.com/crazyuploader/activity-box/pull/34) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+4. 🎉 Merged PR [#1](https://github.com/crazyuploader/Ookla-Servers-Latency/pull/1) in [crazyuploader/Ookla-Servers-Latency](https://github.com/crazyuploader/Ookla-Servers-Latency)
+5. 💪 Opened PR [#1](https://github.com/crazyuploader/Ookla-Servers-Latency/pull/1) in [crazyuploader/Ookla-Servers-Latency](https://github.com/crazyuploader/Ookla-Servers-Latency)
 <!--END_SECTION:activity-->
 </details>
 
