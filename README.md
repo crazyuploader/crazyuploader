@@ -65,11 +65,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/crazyuploader/IMDB_TOP_50/pull/8) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-2. 🎉 Merged PR [#26](https://github.com/crazyuploader/Python/pull/26) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 🎉 Merged PR [#25](https://github.com/crazyuploader/Python/pull/25) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🎉 Merged PR [#24](https://github.com/crazyuploader/Python/pull/24) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 🎉 Merged PR [#34](https://github.com/crazyuploader/activity-box/pull/34) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+1. 🎉 Merged PR [#35](https://github.com/crazyuploader/activity-box/pull/35) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+2. 🎉 Merged PR [#8](https://github.com/crazyuploader/IMDB_TOP_50/pull/8) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+3. 🎉 Merged PR [#26](https://github.com/crazyuploader/Python/pull/26) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🎉 Merged PR [#25](https://github.com/crazyuploader/Python/pull/25) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+5. 🎉 Merged PR [#24](https://github.com/crazyuploader/Python/pull/24) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
