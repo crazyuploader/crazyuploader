@@ -65,11 +65,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/crazyuploader/covid-box/pull/27) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/TIL/pull/5) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-3. 💪 Opened PR [#5](https://github.com/crazyuploader/TIL/pull/5) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-4. 🎉 Merged PR [#16](https://github.com/crazyuploader/IntelliK/pull/16) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-5. 🎉 Merged PR [#51](https://github.com/crazyuploader/Covid19/pull/51) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+1. 💪 Opened PR [#38](https://github.com/lowlighter/metrics/pull/38) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. 🎉 Merged PR [#27](https://github.com/crazyuploader/covid-box/pull/27) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+3. 🎉 Merged PR [#5](https://github.com/crazyuploader/TIL/pull/5) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+4. 💪 Opened PR [#5](https://github.com/crazyuploader/TIL/pull/5) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+5. 🎉 Merged PR [#16](https://github.com/crazyuploader/IntelliK/pull/16) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
 <!--END_SECTION:activity-->
 </details>
 
