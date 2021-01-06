@@ -65,11 +65,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/crazyuploader/OSL/pull/3) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-2. 🎉 Merged PR [#2](https://github.com/crazyuploader/OSL/pull/2) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-3. 💪 Opened PR [#38](https://github.com/lowlighter/metrics/pull/38) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-4. 🎉 Merged PR [#27](https://github.com/crazyuploader/covid-box/pull/27) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
-5. 🎉 Merged PR [#5](https://github.com/crazyuploader/TIL/pull/5) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+1. 🎉 Merged PR [#4](https://github.com/crazyuploader/OSL/pull/4) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+2. 💪 Opened PR [#4](https://github.com/crazyuploader/OSL/pull/4) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+3. 🎉 Merged PR [#3](https://github.com/crazyuploader/OSL/pull/3) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#2](https://github.com/crazyuploader/OSL/pull/2) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+5. 💪 Opened PR [#38](https://github.com/lowlighter/metrics/pull/38) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--END_SECTION:activity-->
 </details>
 
