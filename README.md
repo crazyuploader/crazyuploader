@@ -73,4 +73,5 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
 <!--END_SECTION:activity-->
 </details>
 
+![](https://hit.yhype.me/github/profile?user_id=49350241)
 <!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>-->
