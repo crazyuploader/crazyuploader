@@ -64,11 +64,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/crazyuploader/semaphore-demo-python-django/pull/4) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
-2. 🎉 Merged PR [#7](https://github.com/crazyuploader/semaphore-demo-python-django/pull/7) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
-3. 🎉 Merged PR [#2](https://github.com/crazyuploader/semaphore-demo-python-django/pull/2) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
-4. 🗣 Commented on [#2](https://github.com/crazyuploader/semaphore-demo-python-django/issues/2) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
-5. 🎉 Merged PR [#1](https://github.com/crazyuploader/semaphore-demo-python-django/pull/1) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
+1. 🎉 Merged PR [#5](https://github.com/crazyuploader/semaphore-demo-python-django/pull/5) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
+2. 🎉 Merged PR [#4](https://github.com/crazyuploader/semaphore-demo-python-django/pull/4) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
+3. 🎉 Merged PR [#7](https://github.com/crazyuploader/semaphore-demo-python-django/pull/7) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
+4. 🎉 Merged PR [#2](https://github.com/crazyuploader/semaphore-demo-python-django/pull/2) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
+5. 🗣 Commented on [#2](https://github.com/crazyuploader/semaphore-demo-python-django/issues/2) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
 <!--END_SECTION:activity-->
 </details>
 
