@@ -64,11 +64,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/crazyuploader/Android_Test_Apps/pull/41) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-2. 🎉 Merged PR [#59](https://github.com/crazyuploader/Covid19/pull/59) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-3. 🎉 Merged PR [#61](https://github.com/crazyuploader/Covid19/pull/61) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-4. 🎉 Merged PR [#47](https://github.com/crazyuploader/activity-box/pull/47) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-5. 🎉 Merged PR [#46](https://github.com/crazyuploader/activity-box/pull/46) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+1. 🎉 Merged PR [#30](https://github.com/crazyuploader/Python/pull/30) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 🎉 Merged PR [#29](https://github.com/crazyuploader/Python/pull/29) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🎉 Merged PR [#41](https://github.com/crazyuploader/Android_Test_Apps/pull/41) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+4. 🎉 Merged PR [#59](https://github.com/crazyuploader/Covid19/pull/59) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+5. 🎉 Merged PR [#61](https://github.com/crazyuploader/Covid19/pull/61) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
 <!--END_SECTION:activity-->
 </details>
 
