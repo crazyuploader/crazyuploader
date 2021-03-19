@@ -64,11 +64,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/crazyuploader/Docker-Builder/pull/22) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🎉 Merged PR [#65](https://github.com/crazyuploader/Covid19/pull/65) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-3. 🎉 Merged PR [#42](https://github.com/crazyuploader/Android_Test_Apps/pull/42) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-4. 🎉 Merged PR [#63](https://github.com/crazyuploader/Covid19/pull/63) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
-5. 🎉 Merged PR [#32](https://github.com/crazyuploader/covid-box/pull/32) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+1. 💪 Opened PR [#1](https://github.com/anuragbhatia/ripe-atlas-tools/pull/1) in [anuragbhatia/ripe-atlas-tools](https://github.com/anuragbhatia/ripe-atlas-tools)
+2. 🎉 Merged PR [#22](https://github.com/crazyuploader/Docker-Builder/pull/22) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 🎉 Merged PR [#65](https://github.com/crazyuploader/Covid19/pull/65) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+4. 🎉 Merged PR [#42](https://github.com/crazyuploader/Android_Test_Apps/pull/42) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+5. 🎉 Merged PR [#63](https://github.com/crazyuploader/Covid19/pull/63) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
 <!--END_SECTION:activity-->
 </details>
 
