@@ -64,11 +64,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/crazyuploader/activity-box/pull/48) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-2. 🎉 Merged PR [#24](https://github.com/crazyuploader/IntelliK/pull/24) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-3. 💪 Opened PR [#1](https://github.com/anuragbhatia/ripe-atlas-tools/pull/1) in [anuragbhatia/ripe-atlas-tools](https://github.com/anuragbhatia/ripe-atlas-tools)
-4. 🎉 Merged PR [#22](https://github.com/crazyuploader/Docker-Builder/pull/22) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 🎉 Merged PR [#65](https://github.com/crazyuploader/Covid19/pull/65) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+1. ❌ Closed PR [#3488](https://github.com/reactjs/reactjs.org/pull/3488) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
+2. 🎉 Merged PR [#48](https://github.com/crazyuploader/activity-box/pull/48) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+3. 🎉 Merged PR [#24](https://github.com/crazyuploader/IntelliK/pull/24) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+4. 💪 Opened PR [#1](https://github.com/anuragbhatia/ripe-atlas-tools/pull/1) in [anuragbhatia/ripe-atlas-tools](https://github.com/anuragbhatia/ripe-atlas-tools)
+5. 🎉 Merged PR [#22](https://github.com/crazyuploader/Docker-Builder/pull/22) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
