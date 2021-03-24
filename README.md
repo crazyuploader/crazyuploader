@@ -64,11 +64,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#648](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/648) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
-2. ❌ Closed PR [#3488](https://github.com/reactjs/reactjs.org/pull/3488) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
-3. 🎉 Merged PR [#48](https://github.com/crazyuploader/activity-box/pull/48) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-4. 🎉 Merged PR [#24](https://github.com/crazyuploader/IntelliK/pull/24) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-5. 💪 Opened PR [#1](https://github.com/anuragbhatia/ripe-atlas-tools/pull/1) in [anuragbhatia/ripe-atlas-tools](https://github.com/anuragbhatia/ripe-atlas-tools)
+1. 🎉 Merged PR [#31](https://github.com/crazyuploader/Python/pull/31) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 💪 Opened PR [#648](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/648) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
+3. ❌ Closed PR [#3488](https://github.com/reactjs/reactjs.org/pull/3488) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
+4. 🎉 Merged PR [#48](https://github.com/crazyuploader/activity-box/pull/48) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+5. 🎉 Merged PR [#24](https://github.com/crazyuploader/IntelliK/pull/24) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
 <!--END_SECTION:activity-->
 </details>
 
