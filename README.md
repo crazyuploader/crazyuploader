@@ -41,13 +41,17 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
 </a>-->
 
-<a href="https://github.com/crazyuploader">
-    <img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" />
-</a>
+<p>
+    <a href="https://github.com/crazyuploader">
+        <img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" />
+    </a>
+</p>
 
-<a href="https://github.com/crazyuploader">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyuploader" />
-</a>
+<p>
+    <a href="https://github.com/crazyuploader">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyuploader" />
+    </a>
+</p>
 
 ## WakaTime Weekly Stats
 
