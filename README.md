@@ -37,9 +37,9 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
 
 ## GitHub Stats
 
-<a href="https://github.com/crazyuploader">
+<!--<a href="https://github.com/crazyuploader">
     <img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
-</a>
+</a>-->
 
 <a href="https://github.com/crazyuploader">
     <img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" />
