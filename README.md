@@ -73,11 +73,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/crazyuploader/OSL/issues/6) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+1. 🎉 Merged PR [#66](https://github.com/crazyuploader/Covid19/pull/66) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
 2. 🗣 Commented on [#6](https://github.com/crazyuploader/OSL/issues/6) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-3. 🎉 Merged PR [#32](https://github.com/crazyuploader/Python/pull/32) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🎉 Merged PR [#13](https://github.com/crazyuploader/semaphore-demo-python-django/pull/13) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
-5. 🎉 Merged PR [#12](https://github.com/crazyuploader/semaphore-demo-python-django/pull/12) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
+3. 🗣 Commented on [#6](https://github.com/crazyuploader/OSL/issues/6) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#32](https://github.com/crazyuploader/Python/pull/32) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+5. 🎉 Merged PR [#13](https://github.com/crazyuploader/semaphore-demo-python-django/pull/13) in [crazyuploader/semaphore-demo-python-django](https://github.com/crazyuploader/semaphore-demo-python-django)
 <!--END_SECTION:activity-->
 </details>
 
