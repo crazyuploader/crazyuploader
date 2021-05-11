@@ -73,11 +73,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/crazyuploader/activity-box/pull/53) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-2. 🎉 Merged PR [#54](https://github.com/crazyuploader/activity-box/pull/54) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-3. 🎉 Merged PR [#37](https://github.com/crazyuploader/covid-box/pull/37) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
-4. 🎉 Merged PR [#52](https://github.com/crazyuploader/activity-box/pull/52) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
-5. 🎉 Merged PR [#36](https://github.com/crazyuploader/Python/pull/36) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. 🎉 Merged PR [#69](https://github.com/crazyuploader/Covid19/pull/69) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+2. 🎉 Merged PR [#55](https://github.com/crazyuploader/activity-box/pull/55) in [crazyuploader/activity-box](https://github.com/crazyuploader/activity-box)
+3. 🎉 Merged PR [#39](https://github.com/crazyuploader/covid-box/pull/39) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+4. 🎉 Merged PR [#38](https://github.com/crazyuploader/covid-box/pull/38) in [crazyuploader/covid-box](https://github.com/crazyuploader/covid-box)
+5. 🎉 Merged PR [#37](https://github.com/crazyuploader/Python/pull/37) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
