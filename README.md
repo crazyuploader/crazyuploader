@@ -65,7 +65,7 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Blog Posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [First Post](https://jugalkishore.me/posts/first-post/)
+- [First Post](https://crazyuploader.github.io/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
