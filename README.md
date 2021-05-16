@@ -38,12 +38,12 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
 ## GitHub Stats
 
 <!--<a href="https://github.com/crazyuploader">
-    <img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
+    <img align="center" src="https://crazyuploader-grs.vercel.app/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
 </a>-->
 
 <p>
     <a href="https://github.com/crazyuploader">
-        <img align="center" src="https://readme-stats.jugalkishore.me/api?username=crazyuploader" />
+        <img align="center" src="https://crazyuploader-grs.vercel.app/api?username=crazyuploader" />
     </a>
 </p>
 
@@ -56,7 +56,7 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
 ## WakaTime Weekly Stats
 
 <a href="https://wakatime.com/@crazyuploader">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=crazyuploader" />
+    <img align="center" src="https://crazyuploader-grs.vercel.app/api/wakatime?username=crazyuploader" />
 </a>
 
 [![Contributions](https://github4life.herokuapp.com/crazyuploader.gif)](https://github4life.herokuapp.com/crazyuploader)
