@@ -73,11 +73,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/crazyuploader/Android_Test_Apps/pull/50) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
-2. 🎉 Merged PR [#24](https://github.com/crazyuploader/Docker-Builder/pull/24) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 💪 Opened PR [#24](https://github.com/crazyuploader/Docker-Builder/pull/24) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#30](https://github.com/crazyuploader/IntelliK/pull/30) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-5. 🎉 Merged PR [#49](https://github.com/crazyuploader/Android_Test_Apps/pull/49) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+1. ❌ Closed PR [#75](https://github.com/crazyuploader/Covid19/pull/75) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+2. ❌ Closed PR [#74](https://github.com/crazyuploader/Covid19/pull/74) in [crazyuploader/Covid19](https://github.com/crazyuploader/Covid19)
+3. 🎉 Merged PR [#50](https://github.com/crazyuploader/Android_Test_Apps/pull/50) in [crazyuploader/Android_Test_Apps](https://github.com/crazyuploader/Android_Test_Apps)
+4. 🎉 Merged PR [#24](https://github.com/crazyuploader/Docker-Builder/pull/24) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 💪 Opened PR [#24](https://github.com/crazyuploader/Docker-Builder/pull/24) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
