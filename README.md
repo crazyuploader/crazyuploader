@@ -73,11 +73,11 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/crazyuploader/Pinger/pull/8) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-2. 🎉 Merged PR [#33](https://github.com/crazyuploader/IntelliK/pull/33) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
-3. 🎉 Merged PR [#39](https://github.com/crazyuploader/Python/pull/39) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🎉 Merged PR [#9](https://github.com/crazyuploader/OSL/pull/9) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-5. 🎉 Merged PR [#32](https://github.com/crazyuploader/IntelliK/pull/32) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+1. 🎉 Merged PR [#2](https://github.com/crazyuploader/docker-speedtest-grafana/pull/2) in [crazyuploader/docker-speedtest-grafana](https://github.com/crazyuploader/docker-speedtest-grafana)
+2. 🎉 Merged PR [#1](https://github.com/crazyuploader/docker-speedtest-grafana/pull/1) in [crazyuploader/docker-speedtest-grafana](https://github.com/crazyuploader/docker-speedtest-grafana)
+3. 🎉 Merged PR [#8](https://github.com/crazyuploader/Pinger/pull/8) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+4. 🎉 Merged PR [#33](https://github.com/crazyuploader/IntelliK/pull/33) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+5. 🎉 Merged PR [#39](https://github.com/crazyuploader/Python/pull/39) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
