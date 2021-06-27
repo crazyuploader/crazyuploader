@@ -1,8 +1,9 @@
-<!--[![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.gif "Header")](https://jugalkishore.me/)-->
-
 ## Hey There 👋
 My name is **Jugal Kishore**, student, crazy about computers, networks, and stars. I'm from **Agra, India**.
 
+[![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.svg "Header")](https://crazyuploader.github.io/)
+
+<!--
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -22,7 +23,7 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
 ![](https://img.shields.io/badge/Markup%20Language-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup%20Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 
-<!--![](https://img.shields.io/badge/JS%20FrameWork-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)-->
+[](https://img.shields.io/badge/JS%20FrameWork-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
@@ -37,9 +38,9 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
 
 ## GitHub Stats
 
-<!--<a href="https://github.com/crazyuploader">
+<a href="https://github.com/crazyuploader">
     <img align="center" src="https://crazyuploader-grs.vercel.app/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
-</a>-->
+</a>
 
 <p>
     <a href="https://github.com/crazyuploader">
@@ -52,6 +53,8 @@ My name is **Jugal Kishore**, student, crazy about computers, networks, and star
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyuploader" />
     </a>
 </p>
+
+--->
 
 ## WakaTime Weekly Stats
 
