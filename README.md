@@ -2,7 +2,7 @@
 
 My name is **Jugal Kishore**, a student. Crazy about computers, networks, and stars. I'm from **Agra, India**.
 
-[![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.svg "Header")](https://crazyuploader.github.io/)
+[![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.svg "Header")](https://devjugal.com/)
 
 <!--
 ## Technologies & Tools
