@@ -77,11 +77,11 @@ My name is **Jugal Kishore**, a student. Crazy about computers, networks, and st
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/crazyuploader/TIL/pull/10) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-2. 🎉 Merged PR [#3](https://github.com/crazyuploader/markserv/pull/3) in [crazyuploader/markserv](https://github.com/crazyuploader/markserv)
-3. 🎉 Merged PR [#2](https://github.com/crazyuploader/markserv/pull/2) in [crazyuploader/markserv](https://github.com/crazyuploader/markserv)
-4. 🎉 Merged PR [#1](https://github.com/crazyuploader/markserv/pull/1) in [crazyuploader/markserv](https://github.com/crazyuploader/markserv)
-5. 🎉 Merged PR [#34](https://github.com/crazyuploader/IntelliK/pull/34) in [crazyuploader/IntelliK](https://github.com/crazyuploader/IntelliK)
+1. 💪 Opened PR [#2029](https://github.com/ripienaar/free-for-dev/pull/2029) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+2. 🎉 Merged PR [#10](https://github.com/crazyuploader/TIL/pull/10) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+3. 🎉 Merged PR [#3](https://github.com/crazyuploader/markserv/pull/3) in [crazyuploader/markserv](https://github.com/crazyuploader/markserv)
+4. 🎉 Merged PR [#2](https://github.com/crazyuploader/markserv/pull/2) in [crazyuploader/markserv](https://github.com/crazyuploader/markserv)
+5. 🎉 Merged PR [#1](https://github.com/crazyuploader/markserv/pull/1) in [crazyuploader/markserv](https://github.com/crazyuploader/markserv)
 <!--END_SECTION:activity-->
 </details>
 
