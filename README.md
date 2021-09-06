@@ -2,6 +2,8 @@
 
 My name is **Jugal Kishore**, a student. Crazy about computers, networks, and stars. I'm from **Agra, India**.
 
+Currently, I am learning ***Python3, Linux, Ansible, Docker and other automation stuff***.
+
 [![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.svg "Header")](https://devjugal.com/)
 
 <!--
