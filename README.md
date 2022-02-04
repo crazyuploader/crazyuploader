@@ -79,10 +79,10 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/crazyuploader/Pinger/pull/16) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-2. 🗣 Commented on [#15](https://github.com/crazyuploader/Pinger/issues/15) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+1. 🎉 Merged PR [#22](https://github.com/crazyuploader/OSL/pull/22) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+2. 🎉 Merged PR [#16](https://github.com/crazyuploader/Pinger/pull/16) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
 3. 🗣 Commented on [#15](https://github.com/crazyuploader/Pinger/issues/15) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-4. 🎉 Merged PR [#19](https://github.com/crazyuploader/TIL/pull/19) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+4. 🗣 Commented on [#15](https://github.com/crazyuploader/Pinger/issues/15) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
 5. 🎉 Merged PR [#45](https://github.com/crazyuploader/Python/pull/45) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
