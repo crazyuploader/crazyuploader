@@ -79,11 +79,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/crazyuploader/OSL/pull/27) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-2. 🎉 Merged PR [#1](https://github.com/crazyuploader/ripe-software-probe/pull/1) in [crazyuploader/ripe-software-probe](https://github.com/crazyuploader/ripe-software-probe)
-3. ❗️ Opened issue [#831](https://github.com/AmruthPillai/Reactive-Resume/issues/831) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-4. 🎉 Merged PR [#35](https://github.com/crazyuploader/IMDB_TOP_50/pull/35) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-5. 🎉 Merged PR [#25](https://github.com/crazyuploader/OSL/pull/25) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+1. 🎉 Merged PR [#37](https://github.com/crazyuploader/IMDB_TOP_50/pull/37) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+2. 🎉 Merged PR [#36](https://github.com/crazyuploader/IMDB_TOP_50/pull/36) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+3. 🎉 Merged PR [#27](https://github.com/crazyuploader/OSL/pull/27) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#1](https://github.com/crazyuploader/ripe-software-probe/pull/1) in [crazyuploader/ripe-software-probe](https://github.com/crazyuploader/ripe-software-probe)
+5. ❗️ Opened issue [#831](https://github.com/AmruthPillai/Reactive-Resume/issues/831) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 <!--END_SECTION:activity-->
 </details>
 
