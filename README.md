@@ -79,11 +79,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/crazyuploader/Docker-Builder/pull/50) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🎉 Merged PR [#4](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/4) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
-3. 🎉 Merged PR [#3](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/3) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
-4. 🎉 Merged PR [#2](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/2) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
-5. 🎉 Merged PR [#1](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/1) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+1. 🎉 Merged PR [#45](https://github.com/crazyuploader/OSL/pull/45) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+2. 🎉 Merged PR [#50](https://github.com/crazyuploader/Docker-Builder/pull/50) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 🎉 Merged PR [#4](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/4) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+4. 🎉 Merged PR [#3](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/3) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+5. 🎉 Merged PR [#2](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/2) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
 <!--END_SECTION:activity-->
 </details>
 
