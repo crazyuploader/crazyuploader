@@ -70,11 +70,6 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 <details>
     <summary><b>Blog Posts</b></summary>
 
-<!-- BLOG-POST-LIST:START -->
-- [First Post](https://blog.devjugal.com/posts/first-post/)
-<!-- BLOG-POST-LIST:END -->
-</details>
-
 <details>
     <summary><b>Recent Activity</b></summary>
 
