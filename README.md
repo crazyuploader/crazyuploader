@@ -68,9 +68,6 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 <!--[![Contributions](https://github4life.herokuapp.com/crazyuploader.gif)](https://github4life.herokuapp.com/crazyuploader)-->
 
 <details>
-    <summary><b>Blog Posts</b></summary>
-
-<details>
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
