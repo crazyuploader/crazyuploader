@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/crazyuploader/Python/pull/69) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🎉 Merged PR [#28](https://github.com/crazyuploader/Pinger/pull/28) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-3. 🎉 Merged PR [#32](https://github.com/crazyuploader/Pinger/pull/32) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-4. 🎉 Merged PR [#53](https://github.com/crazyuploader/Docker-Builder/pull/53) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 🎉 Merged PR [#7](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/7) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+1. 🎉 Merged PR [#8](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/8) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+2. 🎉 Merged PR [#9](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/9) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+3. ❌ Closed PR [#10](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/10) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+4. 💪 Opened PR [#10](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/10) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+5. 🎉 Merged PR [#69](https://github.com/crazyuploader/Python/pull/69) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
