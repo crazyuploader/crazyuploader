@@ -71,11 +71,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2822](https://github.com/pop-os/pop/issues/2822) in [pop-os/pop](https://github.com/pop-os/pop)
-2. 🎉 Merged PR [#51](https://github.com/crazyuploader/OSL/pull/51) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-3. 🎉 Merged PR [#56](https://github.com/crazyuploader/Docker-Builder/pull/56) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#50](https://github.com/crazyuploader/IMDB_TOP_50/pull/50) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-5. 🗣 Commented on [#2822](https://github.com/pop-os/pop/issues/2822) in [pop-os/pop](https://github.com/pop-os/pop)
+1. 🎉 Merged PR [#33](https://github.com/crazyuploader/Pinger/pull/33) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+2. 🗣 Commented on [#2822](https://github.com/pop-os/pop/issues/2822) in [pop-os/pop](https://github.com/pop-os/pop)
+3. 🎉 Merged PR [#51](https://github.com/crazyuploader/OSL/pull/51) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#56](https://github.com/crazyuploader/Docker-Builder/pull/56) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🎉 Merged PR [#50](https://github.com/crazyuploader/IMDB_TOP_50/pull/50) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
 <!--END_SECTION:activity-->
 </details>
 
