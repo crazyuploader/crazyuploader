@@ -74,7 +74,7 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 1. 🎉 Merged PR [#57](https://github.com/crazyuploader/Docker-Builder/pull/57) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 2. 🎉 Merged PR [#33](https://github.com/crazyuploader/Pinger/pull/33) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
 3. 🗣 Commented on [#2822](https://github.com/pop-os/pop/issues/2822) in [pop-os/pop](https://github.com/pop-os/pop)
-4. 🎉 Merged PR [#56](https://github.com/crazyuploader/Docker-Builder/pull/56) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+4. 🎉 Merged PR [#51](https://github.com/crazyuploader/OSL/pull/51) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
 5. 🎉 Merged PR [#50](https://github.com/crazyuploader/IMDB_TOP_50/pull/50) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
 <!--END_SECTION:activity-->
 </details>
