@@ -71,11 +71,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/crazyuploader/Pinger/pull/34) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-2. 🎉 Merged PR [#62](https://github.com/crazyuploader/Docker-Builder/pull/62) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#56](https://github.com/crazyuploader/OSL/pull/56) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-4. 🎉 Merged PR [#54](https://github.com/crazyuploader/IMDB_TOP_50/pull/54) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
-5. 🎉 Merged PR [#76](https://github.com/crazyuploader/Python/pull/76) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. 🎉 Merged PR [#16](https://github.com/crazyuploader/speedtest-grafana/pull/16) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
+2. 🎉 Merged PR [#15](https://github.com/crazyuploader/speedtest-grafana/pull/15) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
+3. 🎉 Merged PR [#14](https://github.com/crazyuploader/speedtest-grafana/pull/14) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
+4. 🎉 Merged PR [#13](https://github.com/crazyuploader/speedtest-grafana/pull/13) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
+5. 🎉 Merged PR [#19](https://github.com/crazyuploader/speedtest-grafana/pull/19) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
 <!--END_SECTION:activity-->
 </details>
 
