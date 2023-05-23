@@ -71,11 +71,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#605](https://github.com/alexjustesen/speedtest-tracker/issues/605) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-2. 🎉 Merged PR [#17](https://github.com/crazyuploader/speedtest-grafana/pull/17) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
-3. 🎉 Merged PR [#16](https://github.com/crazyuploader/speedtest-grafana/pull/16) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
-4. 🎉 Merged PR [#15](https://github.com/crazyuploader/speedtest-grafana/pull/15) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
-5. 🎉 Merged PR [#14](https://github.com/crazyuploader/speedtest-grafana/pull/14) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
+1. 🎉 Merged PR [#77](https://github.com/crazyuploader/Python/pull/77) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 🎉 Merged PR [#55](https://github.com/crazyuploader/IMDB_TOP_50/pull/55) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
+3. 🎉 Merged PR [#57](https://github.com/crazyuploader/OSL/pull/57) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. ❗️ Opened issue [#605](https://github.com/alexjustesen/speedtest-tracker/issues/605) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+5. 🎉 Merged PR [#17](https://github.com/crazyuploader/speedtest-grafana/pull/17) in [crazyuploader/speedtest-grafana](https://github.com/crazyuploader/speedtest-grafana)
 <!--END_SECTION:activity-->
 </details>
 
