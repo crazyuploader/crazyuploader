@@ -75,7 +75,7 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 2. 🎉 Merged PR [#77](https://github.com/crazyuploader/Python/pull/77) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 3. 🎉 Merged PR [#55](https://github.com/crazyuploader/IMDB_TOP_50/pull/55) in [crazyuploader/IMDB_TOP_50](https://github.com/crazyuploader/IMDB_TOP_50)
 4. 🎉 Merged PR [#57](https://github.com/crazyuploader/OSL/pull/57) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-5. ❗️ Opened issue [#605](https://github.com/alexjustesen/speedtest-tracker/issues/605) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+5. ❗ Opened issue [#605](https://github.com/alexjustesen/speedtest-tracker/issues/605) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 <!--END_SECTION:activity-->
 </details>
 
