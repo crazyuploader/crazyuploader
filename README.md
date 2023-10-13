@@ -71,11 +71,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/crazyuploader/Docker-Builder/pull/79) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🎉 Merged PR [#47](https://github.com/crazyuploader/Pinger/pull/47) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-3. 🎉 Merged PR [#78](https://github.com/crazyuploader/Docker-Builder/pull/78) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#46](https://github.com/crazyuploader/Pinger/pull/46) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-5. 🗣 Commented on [#5826](https://github.com/rclone/rclone/issues/5826#issuecomment-1744561413) in [rclone/rclone](https://github.com/rclone/rclone)
+1. 🎉 Merged PR [#2](https://github.com/crazyuploader/Golang/pull/2) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
+2. 🎉 Merged PR [#79](https://github.com/crazyuploader/Docker-Builder/pull/79) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 🎉 Merged PR [#47](https://github.com/crazyuploader/Pinger/pull/47) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+4. 🎉 Merged PR [#78](https://github.com/crazyuploader/Docker-Builder/pull/78) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🎉 Merged PR [#46](https://github.com/crazyuploader/Pinger/pull/46) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
 <!--END_SECTION:activity-->
 </details>
 
