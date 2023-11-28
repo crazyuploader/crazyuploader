@@ -71,10 +71,10 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12223](https://github.com/ScoopInstaller/Extras/issues/12223) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. 🎉 Merged PR [#49](https://github.com/crazyuploader/Pinger/pull/49) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-3. 🎉 Merged PR [#93](https://github.com/crazyuploader/Python/pull/93) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🎉 Merged PR [#91](https://github.com/crazyuploader/Python/pull/91) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. 🗣 Commented on [#22](https://github.com/esanchezm/prometheus-qbittorrent-exporter/issues/22#issuecomment-1829640337) in [esanchezm/prometheus-qbittorrent-exporter](https://github.com/esanchezm/prometheus-qbittorrent-exporter)
+2. ❗ Opened issue [#12223](https://github.com/ScoopInstaller/Extras/issues/12223) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. 🎉 Merged PR [#49](https://github.com/crazyuploader/Pinger/pull/49) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+4. 🎉 Merged PR [#93](https://github.com/crazyuploader/Python/pull/93) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 5. 🎉 Merged PR [#23](https://github.com/crazyuploader/TIL/pull/23) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
 <!--END_SECTION:activity-->
 </details>
