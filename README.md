@@ -71,11 +71,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/crazyuploader/OSL/pull/78) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-2. 🎉 Merged PR [#90](https://github.com/crazyuploader/Docker-Builder/pull/90) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#91](https://github.com/crazyuploader/Docker-Builder/pull/91) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#114](https://github.com/crazyuploader/Python/pull/114) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 🎉 Merged PR [#112](https://github.com/crazyuploader/Python/pull/112) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. 💪 Opened PR [#33](https://github.com/devfinwiz/Fin-Maestro-Kin/pull/33) in [devfinwiz/Fin-Maestro-Kin](https://github.com/devfinwiz/Fin-Maestro-Kin)
+2. 🎉 Merged PR [#78](https://github.com/crazyuploader/OSL/pull/78) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+3. 🎉 Merged PR [#90](https://github.com/crazyuploader/Docker-Builder/pull/90) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+4. 🎉 Merged PR [#91](https://github.com/crazyuploader/Docker-Builder/pull/91) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🎉 Merged PR [#114](https://github.com/crazyuploader/Python/pull/114) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
