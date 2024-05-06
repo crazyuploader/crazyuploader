@@ -39,17 +39,21 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 ![](https://img.shields.io/badge/Cloud-Amazon%20Web%20Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 
+-->
+
 ## GitHub Stats
 
+<!--
 <a href="https://github.com/crazyuploader">
-    <img align="center" src="https://crazyuploader-grs.vercel.app/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
+    <img align="center" src="https://readme-stats.devjugal.com/api/top-langs/?username=crazyuploader&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
 </a>
 
 <p>
     <a href="https://github.com/crazyuploader">
-        <img align="center" src="https://crazyuploader-grs.vercel.app/api?username=crazyuploader" />
+        <img align="center" src="https://readme-stats.devjugal.com/api?username=crazyuploader" />
     </a>
 </p>
+-->
 
 <p>
     <a href="https://github.com/crazyuploader">
@@ -57,15 +61,14 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     </a>
 </p>
 
---->
-
+<!--
 ## WakaTime Weekly Stats
 
 <a href="https://wakatime.com/@crazyuploader">
     <img align="center" src="https://crazyuploader-grs.vercel.app/api/wakatime?username=crazyuploader" />
-</a>
+</a> -->
 
-<!--[![Contributions](https://github4life.herokuapp.com/crazyuploader.gif)](https://github4life.herokuapp.com/crazyuploader)-->
+[![Contributions](https://github4life.herokuapp.com/crazyuploader.gif)](https://github4life.herokuapp.com/crazyuploader)
 
 <details>
     <summary><b>Recent Activity</b></summary>
