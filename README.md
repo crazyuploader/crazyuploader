@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/crazyuploader/Python/pull/117#issuecomment-2123073039) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🎉 Merged PR [#79](https://github.com/crazyuploader/OSL/pull/79) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-3. 🎉 Merged PR [#60](https://github.com/crazyuploader/Pinger/pull/60) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-4. 🎉 Merged PR [#86](https://github.com/crazyuploader/IMDb_Top_50/pull/86) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-5. 🎉 Merged PR [#80](https://github.com/crazyuploader/OSL/pull/80) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+1. 🎉 Merged PR [#61](https://github.com/crazyuploader/Pinger/pull/61) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+2. 🗣 Commented on [#116](https://github.com/crazyuploader/Python/pull/116#issuecomment-2123073135) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🗣 Commented on [#117](https://github.com/crazyuploader/Python/pull/117#issuecomment-2123073039) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🎉 Merged PR [#79](https://github.com/crazyuploader/OSL/pull/79) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+5. 🎉 Merged PR [#60](https://github.com/crazyuploader/Pinger/pull/60) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
 <!--END_SECTION:activity-->
 </details>
 
