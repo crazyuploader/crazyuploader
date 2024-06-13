@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5826](https://github.com/rclone/rclone/issues/5826#issuecomment-2156092859) in [rclone/rclone](https://github.com/rclone/rclone)
-2. 🎉 Merged PR [#95](https://github.com/crazyuploader/Docker-Builder/pull/95) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#63](https://github.com/crazyuploader/Pinger/pull/63) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-4. 🎉 Merged PR [#121](https://github.com/crazyuploader/Python/pull/121) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 🗣 Commented on [#6363](https://github.com/caddyserver/caddy/issues/6363#issuecomment-2143759178) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
+1. 🎉 Merged PR [#96](https://github.com/crazyuploader/Docker-Builder/pull/96) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+2. 🎉 Merged PR [#82](https://github.com/crazyuploader/OSL/pull/82) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+3. 🎉 Merged PR [#122](https://github.com/crazyuploader/Python/pull/122) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🗣 Commented on [#5826](https://github.com/rclone/rclone/issues/5826#issuecomment-2156092859) in [rclone/rclone](https://github.com/rclone/rclone)
+5. 🎉 Merged PR [#95](https://github.com/crazyuploader/Docker-Builder/pull/95) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
