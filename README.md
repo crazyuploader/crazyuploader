@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#84](https://github.com/crazyuploader/OSL/pull/84) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-2. ❗ Opened issue [#13838](https://github.com/ScoopInstaller/Extras/issues/13838) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-3. 🎉 Merged PR [#67](https://github.com/crazyuploader/Pinger/pull/67) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-4. 🎉 Merged PR [#101](https://github.com/crazyuploader/Docker-Builder/pull/101) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 🎉 Merged PR [#100](https://github.com/crazyuploader/Docker-Builder/pull/100) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+1. 🔒 Closed issue [#5](https://github.com/crazyuploader/Daily-Runner/issues/5) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
+2. 🎉 Merged PR [#3](https://github.com/crazyuploader/Daily-Runner/pull/3) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
+3. 🔒 Closed issue [#1](https://github.com/crazyuploader/Daily-Runner/issues/1) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
+4. 🎉 Merged PR [#2](https://github.com/crazyuploader/Daily-Runner/pull/2) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
+5. ❌ Closed PR [#84](https://github.com/crazyuploader/OSL/pull/84) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
 <!--END_SECTION:activity-->
 </details>
 
