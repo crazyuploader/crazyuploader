@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13838](https://github.com/ScoopInstaller/Extras/issues/13838) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. 🎉 Merged PR [#67](https://github.com/crazyuploader/Pinger/pull/67) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-3. 🎉 Merged PR [#101](https://github.com/crazyuploader/Docker-Builder/pull/101) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#100](https://github.com/crazyuploader/Docker-Builder/pull/100) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 🎉 Merged PR [#12](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/12) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+1. ❌ Closed PR [#84](https://github.com/crazyuploader/OSL/pull/84) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+2. ❗ Opened issue [#13838](https://github.com/ScoopInstaller/Extras/issues/13838) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. 🎉 Merged PR [#67](https://github.com/crazyuploader/Pinger/pull/67) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+4. 🎉 Merged PR [#101](https://github.com/crazyuploader/Docker-Builder/pull/101) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🎉 Merged PR [#100](https://github.com/crazyuploader/Docker-Builder/pull/100) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
