@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/crazyuploader/IMDb_Top_50/pull/91) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-2. 🎉 Merged PR [#1](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/1) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-3. 🎉 Merged PR [#69](https://github.com/crazyuploader/Pinger/pull/69) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
-4. 🎉 Merged PR [#103](https://github.com/crazyuploader/Docker-Builder/pull/103) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-5. 🎉 Merged PR [#68](https://github.com/crazyuploader/Pinger/pull/68) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+1. ❗ Opened issue [#455](https://github.com/YouROK/TorrServer/issues/455) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
+2. 🎉 Merged PR [#91](https://github.com/crazyuploader/IMDb_Top_50/pull/91) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+3. 🎉 Merged PR [#1](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/1) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+4. 🎉 Merged PR [#69](https://github.com/crazyuploader/Pinger/pull/69) in [crazyuploader/Pinger](https://github.com/crazyuploader/Pinger)
+5. 🎉 Merged PR [#103](https://github.com/crazyuploader/Docker-Builder/pull/103) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
