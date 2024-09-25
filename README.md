@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/crazyuploader/Clang-Toolchain/pull/2) in [crazyuploader/Clang-Toolchain](https://github.com/crazyuploader/Clang-Toolchain)
-2. 💪 Opened PR [#2](https://github.com/crazyuploader/Clang-Toolchain/pull/2) in [crazyuploader/Clang-Toolchain](https://github.com/crazyuploader/Clang-Toolchain)
-3. 🎉 Merged PR [#104](https://github.com/crazyuploader/Docker-Builder/pull/104) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. ❗ Opened issue [#455](https://github.com/YouROK/TorrServer/issues/455) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
-5. 🎉 Merged PR [#91](https://github.com/crazyuploader/IMDb_Top_50/pull/91) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+1. 🎉 Merged PR [#2](https://github.com/crazyuploader/OpenVSCode-Server/pull/2) in [crazyuploader/OpenVSCode-Server](https://github.com/crazyuploader/OpenVSCode-Server)
+2. 🎉 Merged PR [#1](https://github.com/crazyuploader/OpenVSCode-Server/pull/1) in [crazyuploader/OpenVSCode-Server](https://github.com/crazyuploader/OpenVSCode-Server)
+3. 🎉 Merged PR [#2](https://github.com/crazyuploader/Clang-Toolchain/pull/2) in [crazyuploader/Clang-Toolchain](https://github.com/crazyuploader/Clang-Toolchain)
+4. 💪 Opened PR [#2](https://github.com/crazyuploader/Clang-Toolchain/pull/2) in [crazyuploader/Clang-Toolchain](https://github.com/crazyuploader/Clang-Toolchain)
+5. 🎉 Merged PR [#104](https://github.com/crazyuploader/Docker-Builder/pull/104) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
