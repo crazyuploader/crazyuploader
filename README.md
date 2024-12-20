@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/crazyuploader/Daily-Runner/pull/7) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
-2. 🎉 Merged PR [#110](https://github.com/crazyuploader/Docker-Builder/pull/110) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#109](https://github.com/crazyuploader/Docker-Builder/pull/109) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#43](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/43) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
-5. 🎉 Merged PR [#13](https://github.com/crazyuploader/Sheets-URL-Shortener/pull/13) in [crazyuploader/Sheets-URL-Shortener](https://github.com/crazyuploader/Sheets-URL-Shortener)
+1. 🎉 Merged PR [#133](https://github.com/crazyuploader/Python/pull/133) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 🎉 Merged PR [#7](https://github.com/crazyuploader/Daily-Runner/pull/7) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
+3. 🎉 Merged PR [#110](https://github.com/crazyuploader/Docker-Builder/pull/110) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+4. 🎉 Merged PR [#109](https://github.com/crazyuploader/Docker-Builder/pull/109) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🎉 Merged PR [#43](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/43) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
 <!--END_SECTION:activity-->
 </details>
 
