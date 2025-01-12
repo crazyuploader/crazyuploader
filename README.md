@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/crazyuploader/Python/pull/135) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🎉 Merged PR [#134](https://github.com/crazyuploader/Python/pull/134) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 🎉 Merged PR [#111](https://github.com/crazyuploader/Docker-Builder/pull/111) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#6](https://github.com/crazyuploader/Daily-Runner/pull/6) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
-5. 🚀 Published release [1.96.0](https://github.com/crazyuploader/OpenVSCode-Server/releases/tag/1.96.0) in [crazyuploader/OpenVSCode-Server](https://github.com/crazyuploader/OpenVSCode-Server)
+1. 🎉 Merged PR [#136](https://github.com/crazyuploader/Python/pull/136) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 🗣 Commented on [#3](https://github.com/crazyuploader/one-click-hugo-cms/pull/3#issuecomment-2585365418) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+3. 🗣 Commented on [#1](https://github.com/crazyuploader/one-click-hugo-cms/pull/1#issuecomment-2585364859) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+4. 🗣 Commented on [#2](https://github.com/crazyuploader/one-click-hugo-cms/pull/2#issuecomment-2585364296) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+5. 🗣 Commented on [#136](https://github.com/crazyuploader/Python/pull/136#issuecomment-2585363906) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
