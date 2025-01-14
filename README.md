@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/crazyuploader/Python/pull/136) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🗣 Commented on [#3](https://github.com/crazyuploader/one-click-hugo-cms/pull/3#issuecomment-2585365418) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-3. 🗣 Commented on [#1](https://github.com/crazyuploader/one-click-hugo-cms/pull/1#issuecomment-2585364859) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-4. 🗣 Commented on [#2](https://github.com/crazyuploader/one-click-hugo-cms/pull/2#issuecomment-2585364296) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-5. 🗣 Commented on [#136](https://github.com/crazyuploader/Python/pull/136#issuecomment-2585363906) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. 🗣 Commented on [#455](https://github.com/YouROK/TorrServer/issues/455#issuecomment-2589161521) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
+2. 🎉 Merged PR [#136](https://github.com/crazyuploader/Python/pull/136) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🗣 Commented on [#3](https://github.com/crazyuploader/one-click-hugo-cms/pull/3#issuecomment-2585365418) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+4. 🗣 Commented on [#1](https://github.com/crazyuploader/one-click-hugo-cms/pull/1#issuecomment-2585364859) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+5. 🗣 Commented on [#2](https://github.com/crazyuploader/one-click-hugo-cms/pull/2#issuecomment-2585364296) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
 <!--END_SECTION:activity-->
 </details>
 
