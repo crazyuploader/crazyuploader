@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/crazyuploader/Docker-Builder/pull/112) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🗣 Commented on [#455](https://github.com/YouROK/TorrServer/issues/455#issuecomment-2589161521) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
-3. 🎉 Merged PR [#136](https://github.com/crazyuploader/Python/pull/136) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🗣 Commented on [#3](https://github.com/crazyuploader/one-click-hugo-cms/pull/3#issuecomment-2585365418) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-5. 🗣 Commented on [#1](https://github.com/crazyuploader/one-click-hugo-cms/pull/1#issuecomment-2585364859) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+1. 🎉 Merged PR [#93](https://github.com/crazyuploader/IMDb_Top_50/pull/93) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+2. 🎉 Merged PR [#4](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/4) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+3. 🎉 Merged PR [#91](https://github.com/crazyuploader/OSL/pull/91) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#112](https://github.com/crazyuploader/Docker-Builder/pull/112) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🗣 Commented on [#455](https://github.com/YouROK/TorrServer/issues/455#issuecomment-2589161521) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
 <!--END_SECTION:activity-->
 </details>
 
