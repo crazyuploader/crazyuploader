@@ -74,11 +74,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/crazyuploader/one-click-hugo-cms/pull/6#issuecomment-2657038033) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-2. 🗣 Commented on [#5](https://github.com/crazyuploader/one-click-hugo-cms/pull/5#issuecomment-2657032904) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-3. 🎉 Merged PR [#4](https://github.com/crazyuploader/one-click-hugo-cms/pull/4) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-4. 🎉 Merged PR [#3](https://github.com/crazyuploader/one-click-hugo-cms/pull/3) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-5. 🎉 Merged PR [#2](https://github.com/crazyuploader/one-click-hugo-cms/pull/2) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+1. 🗣 Commented on [#13](https://github.com/crazyuploader/one-click-hugo-cms/pull/13#issuecomment-2683736170) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+2. 🗣 Commented on [#12](https://github.com/crazyuploader/one-click-hugo-cms/pull/12#issuecomment-2683734285) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+3. 🎉 Merged PR [#13](https://github.com/crazyuploader/one-click-hugo-cms/pull/13) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+4. 🎉 Merged PR [#12](https://github.com/crazyuploader/one-click-hugo-cms/pull/12) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+5. 🗣 Commented on [#11](https://github.com/crazyuploader/one-click-hugo-cms/pull/11#issuecomment-2683728535) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
 <!--END_SECTION:activity-->
 </details>
 
