@@ -55,11 +55,13 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 </p>
 -->
 
+<!--
 <p>
     <a href="https://github.com/crazyuploader">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazyuploader" />
     </a>
 </p>
+-->
 
 <!--
 ## WakaTime Weekly Stats
