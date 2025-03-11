@@ -65,7 +65,7 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
 ## WakaTime Weekly Stats
 
 <a href="https://wakatime.com/@crazyuploader">
-    <img align="center" src="https://crazyuploader-grs.vercel.app/api/wakatime?username=crazyuploader" />
+    <img align="center" src="https://readme-stats.devjugal.com/api/wakatime?username=crazyuploader" />
 </a> -->
 
 [![Contributions](https://github4life.herokuapp.com/crazyuploader.gif)](https://github4life.herokuapp.com/crazyuploader)
