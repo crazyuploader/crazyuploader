@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/crazyuploader/Docker-Builder/pull/116) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🎉 Merged PR [#41](https://github.com/crazyuploader/ad-test-toolz/pull/41) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
-3. 🎉 Merged PR [#26](https://github.com/crazyuploader/ad-test-toolz/pull/26) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
-4. 🎉 Merged PR [#32](https://github.com/crazyuploader/ad-test-toolz/pull/32) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
-5. 🎉 Merged PR [#40](https://github.com/crazyuploader/ad-test-toolz/pull/40) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
+1. 🎉 Merged PR [#4](https://github.com/crazyuploader/Golang/pull/4) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
+2. 🎉 Merged PR [#5](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/5) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+3. 🎉 Merged PR [#96](https://github.com/crazyuploader/IMDb_Top_50/pull/96) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+4. 🎉 Merged PR [#92](https://github.com/crazyuploader/OSL/pull/92) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+5. 🎉 Merged PR [#116](https://github.com/crazyuploader/Docker-Builder/pull/116) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
