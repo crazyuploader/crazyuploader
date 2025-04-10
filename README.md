@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/crazyuploader/Docker-Builder/pull/117) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🎉 Merged PR [#145](https://github.com/crazyuploader/Python/pull/145) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 🗣 Commented on [#455](https://github.com/YouROK/TorrServer/issues/455#issuecomment-2766816578) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
-4. 🎉 Merged PR [#16](https://github.com/crazyuploader/als/pull/16) in [crazyuploader/als](https://github.com/crazyuploader/als)
-5. 🎉 Merged PR [#15](https://github.com/crazyuploader/als/pull/15) in [crazyuploader/als](https://github.com/crazyuploader/als)
+1. 🎉 Merged PR [#98](https://github.com/crazyuploader/IMDb_Top_50/pull/98) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+2. 🎉 Merged PR [#117](https://github.com/crazyuploader/Docker-Builder/pull/117) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 🎉 Merged PR [#145](https://github.com/crazyuploader/Python/pull/145) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🗣 Commented on [#455](https://github.com/YouROK/TorrServer/issues/455#issuecomment-2766816578) in [YouROK/TorrServer](https://github.com/YouROK/TorrServer)
+5. 🎉 Merged PR [#16](https://github.com/crazyuploader/als/pull/16) in [crazyuploader/als](https://github.com/crazyuploader/als)
 <!--END_SECTION:activity-->
 </details>
 
