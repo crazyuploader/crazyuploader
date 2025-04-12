@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/crazyuploader/one-click-hugo-cms/pull/15) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-2. 🎉 Merged PR [#99](https://github.com/crazyuploader/IMDb_Top_50/pull/99) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-3. 🗣 Commented on [#15](https://github.com/crazyuploader/one-click-hugo-cms/pull/15#issuecomment-2793115364) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-4. 🎉 Merged PR [#14](https://github.com/crazyuploader/one-click-hugo-cms/pull/14) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-5. 🎉 Merged PR [#98](https://github.com/crazyuploader/IMDb_Top_50/pull/98) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+1. 💪 Opened PR [#227](https://github.com/marketcalls/openalgo/pull/227) in [marketcalls/openalgo](https://github.com/marketcalls/openalgo)
+2. 🎉 Merged PR [#15](https://github.com/crazyuploader/one-click-hugo-cms/pull/15) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+3. 🎉 Merged PR [#99](https://github.com/crazyuploader/IMDb_Top_50/pull/99) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+4. 🗣 Commented on [#15](https://github.com/crazyuploader/one-click-hugo-cms/pull/15#issuecomment-2793115364) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+5. 🎉 Merged PR [#14](https://github.com/crazyuploader/one-click-hugo-cms/pull/14) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
 <!--END_SECTION:activity-->
 </details>
 
