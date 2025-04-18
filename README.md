@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#971](https://github.com/jarnedemeulemeester/findroid/issues/971#issuecomment-2810385521) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-2. 🔒 Closed issue [#971](https://github.com/jarnedemeulemeester/findroid/issues/971) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-3. 🎉 Merged PR [#101](https://github.com/crazyuploader/IMDb_Top_50/pull/101) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-4. 🎉 Merged PR [#146](https://github.com/crazyuploader/Python/pull/146) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 💪 Opened PR [#228](https://github.com/marketcalls/openalgo/pull/228) in [marketcalls/openalgo](https://github.com/marketcalls/openalgo)
+1. 🎉 Merged PR [#5](https://github.com/crazyuploader/Golang/pull/5) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
+2. 🗣 Commented on [#971](https://github.com/jarnedemeulemeester/findroid/issues/971#issuecomment-2810385521) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
+3. 🔒 Closed issue [#971](https://github.com/jarnedemeulemeester/findroid/issues/971) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
+4. 🎉 Merged PR [#101](https://github.com/crazyuploader/IMDb_Top_50/pull/101) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+5. 🎉 Merged PR [#146](https://github.com/crazyuploader/Python/pull/146) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
