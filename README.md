@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/mhdzumair/mediaflow-proxy/pull/53) in [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/Golang/pull/5) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
-3. 🗣 Commented on [#971](https://github.com/jarnedemeulemeester/findroid/issues/971#issuecomment-2810385521) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-4. 🔒 Closed issue [#971](https://github.com/jarnedemeulemeester/findroid/issues/971) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-5. 🎉 Merged PR [#101](https://github.com/crazyuploader/IMDb_Top_50/pull/101) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+1. 🎉 Merged PR [#147](https://github.com/crazyuploader/Python/pull/147) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. 💪 Opened PR [#53](https://github.com/mhdzumair/mediaflow-proxy/pull/53) in [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)
+3. 🎉 Merged PR [#5](https://github.com/crazyuploader/Golang/pull/5) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
+4. 🗣 Commented on [#971](https://github.com/jarnedemeulemeester/findroid/issues/971#issuecomment-2810385521) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
+5. 🔒 Closed issue [#971](https://github.com/jarnedemeulemeester/findroid/issues/971) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
 <!--END_SECTION:activity-->
 </details>
 
