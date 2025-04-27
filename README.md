@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/crazyuploader/Python/pull/152) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🎉 Merged PR [#150](https://github.com/crazyuploader/Python/pull/150) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 🎉 Merged PR [#153](https://github.com/crazyuploader/Python/pull/153) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🎉 Merged PR [#149](https://github.com/crazyuploader/Python/pull/149) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 💪 Opened PR [#153](https://github.com/crazyuploader/Python/pull/153) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. 💪 Opened PR [#8526](https://github.com/rclone/rclone/pull/8526) in [rclone/rclone](https://github.com/rclone/rclone)
+2. 🎉 Merged PR [#152](https://github.com/crazyuploader/Python/pull/152) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🎉 Merged PR [#150](https://github.com/crazyuploader/Python/pull/150) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🎉 Merged PR [#153](https://github.com/crazyuploader/Python/pull/153) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+5. 🎉 Merged PR [#149](https://github.com/crazyuploader/Python/pull/149) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
