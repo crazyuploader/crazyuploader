@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/crazyuploader/one-click-hugo-cms/pull/16) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-2. 🗣 Commented on [#16](https://github.com/crazyuploader/one-click-hugo-cms/pull/16#issuecomment-2837271812) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-3. 💪 Opened PR [#8526](https://github.com/rclone/rclone/pull/8526) in [rclone/rclone](https://github.com/rclone/rclone)
-4. 🎉 Merged PR [#152](https://github.com/crazyuploader/Python/pull/152) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 🎉 Merged PR [#150](https://github.com/crazyuploader/Python/pull/150) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+1. ❌ Closed PR [#139](https://github.com/crazyuploader/Python/pull/139) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+2. ❌ Closed PR [#148](https://github.com/crazyuploader/Python/pull/148) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🎉 Merged PR [#151](https://github.com/crazyuploader/Python/pull/151) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🎉 Merged PR [#154](https://github.com/crazyuploader/Python/pull/154) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+5. 🗣 Commented on [#154](https://github.com/crazyuploader/Python/pull/154#issuecomment-2844363345) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
 <!--END_SECTION:activity-->
 </details>
 
