@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/9) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-2. 🎉 Merged PR [#102](https://github.com/crazyuploader/IMDb_Top_50/pull/102) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-3. 🗣 Commented on [#272](https://github.com/marketcalls/openalgo/issues/272#issuecomment-2950077434) in [marketcalls/openalgo](https://github.com/marketcalls/openalgo)
-4. 🎉 Merged PR [#2](https://github.com/crazyuploader/gohttpserver/pull/2) in [crazyuploader/gohttpserver](https://github.com/crazyuploader/gohttpserver)
-5. 🎉 Merged PR [#1](https://github.com/crazyuploader/gohttpserver/pull/1) in [crazyuploader/gohttpserver](https://github.com/crazyuploader/gohttpserver)
+1. ❗ Opened issue [#1546](https://github.com/karakeep-app/karakeep/issues/1546) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+2. 🎉 Merged PR [#9](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/9) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+3. 🎉 Merged PR [#102](https://github.com/crazyuploader/IMDb_Top_50/pull/102) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+4. 🗣 Commented on [#272](https://github.com/marketcalls/openalgo/issues/272#issuecomment-2950077434) in [marketcalls/openalgo](https://github.com/marketcalls/openalgo)
+5. 🎉 Merged PR [#2](https://github.com/crazyuploader/gohttpserver/pull/2) in [crazyuploader/gohttpserver](https://github.com/crazyuploader/gohttpserver)
 <!--END_SECTION:activity-->
 </details>
 
