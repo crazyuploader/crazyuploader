@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/crazyuploader/Docker-Builder/pull/120) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🗣 Commented on [#1546](https://github.com/karakeep-app/karakeep/issues/1546#issuecomment-2955399548) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-3. ❗ Opened issue [#1546](https://github.com/karakeep-app/karakeep/issues/1546) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-4. 🎉 Merged PR [#9](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/9) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-5. 🎉 Merged PR [#102](https://github.com/crazyuploader/IMDb_Top_50/pull/102) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+1. 🎉 Merged PR [#105](https://github.com/crazyuploader/IMDb_Top_50/pull/105) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+2. 🎉 Merged PR [#13](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/13) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+3. 🎉 Merged PR [#120](https://github.com/crazyuploader/Docker-Builder/pull/120) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+4. 🗣 Commented on [#1546](https://github.com/karakeep-app/karakeep/issues/1546#issuecomment-2955399548) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+5. ❗ Opened issue [#1546](https://github.com/karakeep-app/karakeep/issues/1546) in [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
 <!--END_SECTION:activity-->
 </details>
 
