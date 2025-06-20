@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#657](https://github.com/ThaUnknown/miru/issues/657#issuecomment-2977518040) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
-2. ❗ Opened issue [#657](https://github.com/ThaUnknown/miru/issues/657) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
-3. 🎉 Merged PR [#105](https://github.com/crazyuploader/IMDb_Top_50/pull/105) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-4. 🎉 Merged PR [#13](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/13) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-5. 🎉 Merged PR [#120](https://github.com/crazyuploader/Docker-Builder/pull/120) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+1. 🎉 Merged PR [#14](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/14) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+2. 🎉 Merged PR [#48](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/48) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
+3. 🎉 Merged PR [#157](https://github.com/crazyuploader/Python/pull/157) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+4. 🗣 Commented on [#657](https://github.com/ThaUnknown/miru/issues/657#issuecomment-2977518040) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
+5. ❗ Opened issue [#657](https://github.com/ThaUnknown/miru/issues/657) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
 <!--END_SECTION:activity-->
 </details>
 
