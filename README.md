@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/14) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-2. 🎉 Merged PR [#48](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/48) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
-3. 🎉 Merged PR [#157](https://github.com/crazyuploader/Python/pull/157) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-4. 🗣 Commented on [#657](https://github.com/ThaUnknown/miru/issues/657#issuecomment-2977518040) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
-5. ❗ Opened issue [#657](https://github.com/ThaUnknown/miru/issues/657) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
+1. 🎉 Merged PR [#55](https://github.com/crazyuploader/ad-test-toolz/pull/55) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
+2. 🎉 Merged PR [#54](https://github.com/crazyuploader/ad-test-toolz/pull/54) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
+3. 🎉 Merged PR [#53](https://github.com/crazyuploader/ad-test-toolz/pull/53) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
+4. 🎉 Merged PR [#52](https://github.com/crazyuploader/ad-test-toolz/pull/52) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
+5. 🎉 Merged PR [#51](https://github.com/crazyuploader/ad-test-toolz/pull/51) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
 <!--END_SECTION:activity-->
 </details>
 
