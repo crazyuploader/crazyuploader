@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/crazyuploader/IPO-Monitor/pull/2) in [crazyuploader/IPO-Monitor](https://github.com/crazyuploader/IPO-Monitor)
-2. 🎉 Merged PR [#1](https://github.com/crazyuploader/IPO-Monitor/pull/1) in [crazyuploader/IPO-Monitor](https://github.com/crazyuploader/IPO-Monitor)
-3. 🎉 Merged PR [#2](https://github.com/crazyuploader/Power-Outage-Watcher/pull/2) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
-4. 🎉 Merged PR [#1](https://github.com/crazyuploader/Power-Outage-Watcher/pull/1) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
-5. 🗣 Commented on [#34916](https://github.com/go-gitea/gitea/issues/34916#issuecomment-3025056769) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. 🎉 Merged PR [#2](https://github.com/crazyuploader/Speedtest-Servers/pull/2) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+2. 🎉 Merged PR [#1](https://github.com/crazyuploader/Speedtest-Servers/pull/1) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+3. 🎉 Merged PR [#2](https://github.com/crazyuploader/IPO-Monitor/pull/2) in [crazyuploader/IPO-Monitor](https://github.com/crazyuploader/IPO-Monitor)
+4. 🎉 Merged PR [#1](https://github.com/crazyuploader/IPO-Monitor/pull/1) in [crazyuploader/IPO-Monitor](https://github.com/crazyuploader/IPO-Monitor)
+5. 🎉 Merged PR [#2](https://github.com/crazyuploader/Power-Outage-Watcher/pull/2) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
 <!--END_SECTION:activity-->
 </details>
 
