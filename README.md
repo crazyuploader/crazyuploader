@@ -76,11 +76,11 @@ Currently, I am learning ***Linux, Go, Ansible, Docker and other automation stuf
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/crazyuploader/als/pull/34) in [crazyuploader/als](https://github.com/crazyuploader/als)
-2. 🎉 Merged PR [#35](https://github.com/crazyuploader/als/pull/35) in [crazyuploader/als](https://github.com/crazyuploader/als)
-3. 🎉 Merged PR [#36](https://github.com/crazyuploader/als/pull/36) in [crazyuploader/als](https://github.com/crazyuploader/als)
-4. 🎉 Merged PR [#2](https://github.com/crazyuploader/github-actions-docker-runner/pull/2) in [crazyuploader/github-actions-docker-runner](https://github.com/crazyuploader/github-actions-docker-runner)
-5. 🗣 Commented on [#691](https://github.com/hayase-app/ui/issues/691#issuecomment-3092328256) in [hayase-app/ui](https://github.com/hayase-app/ui)
+1. 🎉 Merged PR [#1](https://github.com/crazyuploader/GoAPI/pull/1) in [crazyuploader/GoAPI](https://github.com/crazyuploader/GoAPI)
+2. ❌ Closed PR [#1](https://github.com/crazyuploader/GoAPI/pull/1) in [crazyuploader/GoAPI](https://github.com/crazyuploader/GoAPI)
+3. 🎉 Merged PR [#34](https://github.com/crazyuploader/als/pull/34) in [crazyuploader/als](https://github.com/crazyuploader/als)
+4. 🎉 Merged PR [#35](https://github.com/crazyuploader/als/pull/35) in [crazyuploader/als](https://github.com/crazyuploader/als)
+5. 🎉 Merged PR [#36](https://github.com/crazyuploader/als/pull/36) in [crazyuploader/als](https://github.com/crazyuploader/als)
 <!--END_SECTION:activity-->
 </details>
 
