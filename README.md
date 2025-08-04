@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/crazyuploader/CodImg-Backend/pull/1) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/rclone_exporter/pull/5) in [crazyuploader/rclone_exporter](https://github.com/crazyuploader/rclone_exporter)
-3. 🎉 Merged PR [#4](https://github.com/crazyuploader/rclone_exporter/pull/4) in [crazyuploader/rclone_exporter](https://github.com/crazyuploader/rclone_exporter)
-4. 🎉 Merged PR [#1](https://github.com/crazyuploader/GoAPI/pull/1) in [crazyuploader/GoAPI](https://github.com/crazyuploader/GoAPI)
-5. ❌ Closed PR [#1](https://github.com/crazyuploader/GoAPI/pull/1) in [crazyuploader/GoAPI](https://github.com/crazyuploader/GoAPI)
+1. 🎉 Merged PR [#3](https://github.com/crazyuploader/CodImg-Backend/pull/3) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
+2. 🎉 Merged PR [#1](https://github.com/crazyuploader/CodImg-Backend/pull/1) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
+3. 🎉 Merged PR [#5](https://github.com/crazyuploader/rclone_exporter/pull/5) in [crazyuploader/rclone_exporter](https://github.com/crazyuploader/rclone_exporter)
+4. 🎉 Merged PR [#4](https://github.com/crazyuploader/rclone_exporter/pull/4) in [crazyuploader/rclone_exporter](https://github.com/crazyuploader/rclone_exporter)
+5. 🎉 Merged PR [#1](https://github.com/crazyuploader/GoAPI/pull/1) in [crazyuploader/GoAPI](https://github.com/crazyuploader/GoAPI)
 <!--END_SECTION:activity-->
 </details>
 
