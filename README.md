@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/crazyuploader/Golang/pull/7) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/CodImg-Backend/pull/5) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
-3. 🎉 Merged PR [#4](https://github.com/crazyuploader/CodImg-Backend/pull/4) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
-4. 🎉 Merged PR [#2](https://github.com/crazyuploader/CodImg-Backend/pull/2) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
-5. 🎉 Merged PR [#3](https://github.com/crazyuploader/CodImg-Backend/pull/3) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
+1. 🗣 Commented on [#18](https://github.com/crazyuploader/one-click-hugo-cms/pull/18#issuecomment-3161524020) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+2. 🎉 Merged PR [#7](https://github.com/crazyuploader/Golang/pull/7) in [crazyuploader/Golang](https://github.com/crazyuploader/Golang)
+3. 🎉 Merged PR [#5](https://github.com/crazyuploader/CodImg-Backend/pull/5) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
+4. 🎉 Merged PR [#4](https://github.com/crazyuploader/CodImg-Backend/pull/4) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
+5. 🎉 Merged PR [#2](https://github.com/crazyuploader/CodImg-Backend/pull/2) in [crazyuploader/CodImg-Backend](https://github.com/crazyuploader/CodImg-Backend)
 <!--END_SECTION:activity-->
 </details>
 
