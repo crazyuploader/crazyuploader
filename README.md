@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/crazyuploader/OSL/pull/97) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-2. 🎉 Merged PR [#124](https://github.com/crazyuploader/Docker-Builder/pull/124) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#123](https://github.com/crazyuploader/Docker-Builder/pull/123) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-4. 🎉 Merged PR [#107](https://github.com/crazyuploader/IMDb_Top_50/pull/107) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-5. 🎉 Merged PR [#18](https://github.com/crazyuploader/one-click-hugo-cms/pull/18) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+1. 🎉 Merged PR [#98](https://github.com/crazyuploader/OSL/pull/98) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+2. 🎉 Merged PR [#125](https://github.com/crazyuploader/Docker-Builder/pull/125) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 🎉 Merged PR [#97](https://github.com/crazyuploader/OSL/pull/97) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#124](https://github.com/crazyuploader/Docker-Builder/pull/124) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+5. 🎉 Merged PR [#123](https://github.com/crazyuploader/Docker-Builder/pull/123) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
