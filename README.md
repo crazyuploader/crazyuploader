@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/49) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/OpenVSCode-Server/pull/5) in [crazyuploader/OpenVSCode-Server](https://github.com/crazyuploader/OpenVSCode-Server)
-3. 🎉 Merged PR [#16](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/16) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-4. 🎉 Merged PR [#108](https://github.com/crazyuploader/IMDb_Top_50/pull/108) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-5. 🎉 Merged PR [#8](https://github.com/crazyuploader/Daily-Runner/pull/8) in [crazyuploader/Daily-Runner](https://github.com/crazyuploader/Daily-Runner)
+1. 🎉 Merged PR [#17](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/17) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+2. 🎉 Merged PR [#109](https://github.com/crazyuploader/IMDb_Top_50/pull/109) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+3. 🎉 Merged PR [#49](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/49) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
+4. 🎉 Merged PR [#5](https://github.com/crazyuploader/OpenVSCode-Server/pull/5) in [crazyuploader/OpenVSCode-Server](https://github.com/crazyuploader/OpenVSCode-Server)
+5. 🎉 Merged PR [#16](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/16) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
 <!--END_SECTION:activity-->
 </details>
 
