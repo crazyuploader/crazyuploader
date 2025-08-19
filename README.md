@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper/pull/20) in [crazyuploader/Ubuntu-Mirrors-Scraper](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper)
-2. 🎉 Merged PR [#161](https://github.com/crazyuploader/Python/pull/161) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-3. 🎉 Merged PR [#18](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/18) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
-4. 💪 Opened PR [#42065](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/42065) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-5. 🎉 Merged PR [#17](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/17) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
+1. 🎉 Merged PR [#4](https://github.com/crazyuploader/NetViz/pull/4) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+2. 🎉 Merged PR [#5](https://github.com/crazyuploader/NetViz/pull/5) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+3. 🎉 Merged PR [#20](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper/pull/20) in [crazyuploader/Ubuntu-Mirrors-Scraper](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper)
+4. 🎉 Merged PR [#161](https://github.com/crazyuploader/Python/pull/161) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+5. 🎉 Merged PR [#18](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper/pull/18) in [crazyuploader/Ubuntu-Mirror-Scraper](https://github.com/crazyuploader/Ubuntu-Mirror-Scraper)
 <!--END_SECTION:activity-->
 </details>
 
