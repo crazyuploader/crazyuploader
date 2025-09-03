@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/crazyuploader/Power-Outage-Watcher/pull/4) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
-2. 🎉 Merged PR [#5](https://github.com/crazyuploader/Power-Outage-Watcher/pull/5) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
-3. 🎉 Merged PR [#6](https://github.com/crazyuploader/Power-Outage-Watcher/pull/6) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
-4. 🎉 Merged PR [#21](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper/pull/21) in [crazyuploader/Ubuntu-Mirrors-Scraper](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper)
-5. 🎉 Merged PR [#61](https://github.com/crazyuploader/ad-test-toolz/pull/61) in [crazyuploader/ad-test-toolz](https://github.com/crazyuploader/ad-test-toolz)
+1. 💪 Opened PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+2. ❗ Opened issue [#1911](https://github.com/SigNoz/signoz-web/issues/1911) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+3. 🎉 Merged PR [#4](https://github.com/crazyuploader/Power-Outage-Watcher/pull/4) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
+4. 🎉 Merged PR [#5](https://github.com/crazyuploader/Power-Outage-Watcher/pull/5) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
+5. 🎉 Merged PR [#6](https://github.com/crazyuploader/Power-Outage-Watcher/pull/6) in [crazyuploader/Power-Outage-Watcher](https://github.com/crazyuploader/Power-Outage-Watcher)
 <!--END_SECTION:activity-->
 </details>
 
