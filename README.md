@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1911](https://github.com/SigNoz/signoz-web/issues/1911) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-2. 🎉 Merged PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-3. 🗣 Commented on [#1912](https://github.com/SigNoz/signoz-web/pull/1912#issuecomment-3248539011) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-4. 💪 Opened PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-5. ❗ Opened issue [#1911](https://github.com/SigNoz/signoz-web/issues/1911) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+1. 🎉 Merged PR [#25](https://github.com/crazyuploader/TIL/pull/25) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+2. 🔒 Closed issue [#1911](https://github.com/SigNoz/signoz-web/issues/1911) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+3. 🎉 Merged PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+4. 🗣 Commented on [#1912](https://github.com/SigNoz/signoz-web/pull/1912#issuecomment-3248539011) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+5. 💪 Opened PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
 <!--END_SECTION:activity-->
 </details>
 
