@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/crazyuploader/TIL/pull/25) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-2. 🔒 Closed issue [#1911](https://github.com/SigNoz/signoz-web/issues/1911) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-3. 🎉 Merged PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-4. 🗣 Commented on [#1912](https://github.com/SigNoz/signoz-web/pull/1912#issuecomment-3248539011) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
-5. 💪 Opened PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+1. 🎉 Merged PR [#116](https://github.com/crazyuploader/IMDb_Top_50/pull/116) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+2. 🎉 Merged PR [#167](https://github.com/crazyuploader/Python/pull/167) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🎉 Merged PR [#25](https://github.com/crazyuploader/TIL/pull/25) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+4. 🔒 Closed issue [#1911](https://github.com/SigNoz/signoz-web/issues/1911) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
+5. 🎉 Merged PR [#1912](https://github.com/SigNoz/signoz-web/pull/1912) in [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web)
 <!--END_SECTION:activity-->
 </details>
 
