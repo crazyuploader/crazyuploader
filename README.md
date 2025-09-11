@@ -77,10 +77,10 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1843](https://github.com/SigNoz/signoz.io/issues/1843) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 🎉 Merged PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 💪 Opened PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 💪 Opened PR [#1934](https://github.com/SigNoz/signoz.io/pull/1934) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#116](https://github.com/crazyuploader/IMDb_Top_50/pull/116) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
+2. ❌ Labeled PR [#1950](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 💪 Opened PR [#1950](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❌ Assigned PR [#1950](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ❌ Labeled PR [#1](undefined) in [crazyuploader/homebrew-tools](https://github.com/crazyuploader/homebrew-tools)
 <!--END_SECTION:activity-->
 </details>
 
