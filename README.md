@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/crazyuploader/TIL/pull/26) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-2. 🔒 Closed issue [#1843](https://github.com/SigNoz/signoz.io/issues/1843) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🎉 Merged PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 💪 Opened PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 💪 Opened PR [#1934](https://github.com/SigNoz/signoz.io/pull/1934) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#27](https://github.com/crazyuploader/TIL/pull/27) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+2. 🎉 Merged PR [#26](https://github.com/crazyuploader/TIL/pull/26) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+3. 🔒 Closed issue [#1843](https://github.com/SigNoz/signoz.io/issues/1843) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🎉 Merged PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 💪 Opened PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
