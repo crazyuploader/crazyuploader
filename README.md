@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/54) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
-2. 🎉 Merged PR [#27](https://github.com/crazyuploader/TIL/pull/27) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-3. 🎉 Merged PR [#26](https://github.com/crazyuploader/TIL/pull/26) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
-4. 🔒 Closed issue [#1843](https://github.com/SigNoz/signoz.io/issues/1843) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#1950](https://github.com/SigNoz/signoz.io/pull/1950) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#1](https://github.com/crazyuploader/Hello-Rust/pull/1) in [crazyuploader/Hello-Rust](https://github.com/crazyuploader/Hello-Rust)
+2. 🎉 Merged PR [#54](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/54) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
+3. 🎉 Merged PR [#27](https://github.com/crazyuploader/TIL/pull/27) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+4. 🎉 Merged PR [#26](https://github.com/crazyuploader/TIL/pull/26) in [crazyuploader/TIL](https://github.com/crazyuploader/TIL)
+5. 🔒 Closed issue [#1843](https://github.com/SigNoz/signoz.io/issues/1843) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
