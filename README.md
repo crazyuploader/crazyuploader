@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/crazyuploader/actions-change-detection/pull/22) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-2. 🔒 Closed issue [#21](https://github.com/crazyuploader/actions-change-detection/issues/21) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-3. 🎉 Merged PR [#20](https://github.com/crazyuploader/actions-change-detection/pull/20) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-4. 💪 Opened PR [#20](https://github.com/crazyuploader/actions-change-detection/pull/20) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-5. 🔒 Closed issue [#19](https://github.com/crazyuploader/actions-change-detection/issues/19) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+1. 💪 Opened PR [#24](https://github.com/crazyuploader/actions-change-detection/pull/24) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+2. 🔒 Closed issue [#23](https://github.com/crazyuploader/actions-change-detection/issues/23) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+3. 🎉 Merged PR [#22](https://github.com/crazyuploader/actions-change-detection/pull/22) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+4. 💪 Opened PR [#22](https://github.com/crazyuploader/actions-change-detection/pull/22) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+5. 🔒 Closed issue [#21](https://github.com/crazyuploader/actions-change-detection/issues/21) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
 <!--END_SECTION:activity-->
 </details>
 
