@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/crazyuploader/actions-change-detection/pull/2) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-2. 🎉 Merged PR [#1](https://github.com/crazyuploader/actions-change-detection/pull/1) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-3. 🎉 Merged PR [#9](https://github.com/crazyuploader/NetViz/pull/9) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-4. 💪 Opened PR [#1982](https://github.com/SigNoz/signoz.io/pull/1982) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#8](https://github.com/crazyuploader/NetViz/pull/8) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+1. 💪 Opened PR [#9](https://github.com/crazyuploader/actions-change-detection/pull/9) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+2. 🎉 Merged PR [#7](https://github.com/crazyuploader/actions-change-detection/pull/7) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+3. 💪 Opened PR [#7](https://github.com/crazyuploader/actions-change-detection/pull/7) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+4. 🎉 Merged PR [#5](https://github.com/crazyuploader/actions-change-detection/pull/5) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+5. 💪 Opened PR [#5](https://github.com/crazyuploader/actions-change-detection/pull/5) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
 <!--END_SECTION:activity-->
 </details>
 
