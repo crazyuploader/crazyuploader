@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/crazyuploader/NetViz/pull/9) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-2. 💪 Opened PR [#1982](https://github.com/SigNoz/signoz.io/pull/1982) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🎉 Merged PR [#8](https://github.com/crazyuploader/NetViz/pull/8) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-4. 🎉 Merged PR [#3](https://github.com/crazyuploader/NetViz/pull/3) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-5. 🎉 Merged PR [#1](https://github.com/crazyuploader/Hello-Rust/pull/1) in [crazyuploader/Hello-Rust](https://github.com/crazyuploader/Hello-Rust)
+1. 🎉 Merged PR [#2](https://github.com/crazyuploader/actions-change-detection/pull/2) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+2. 🎉 Merged PR [#1](https://github.com/crazyuploader/actions-change-detection/pull/1) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+3. 🎉 Merged PR [#9](https://github.com/crazyuploader/NetViz/pull/9) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+4. 💪 Opened PR [#1982](https://github.com/SigNoz/signoz.io/pull/1982) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🎉 Merged PR [#8](https://github.com/crazyuploader/NetViz/pull/8) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
 <!--END_SECTION:activity-->
 </details>
 
