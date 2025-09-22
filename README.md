@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/crazyuploader/actions-change-detection/pull/24) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-2. 🎉 Merged PR [#12](https://github.com/crazyuploader/NetViz/pull/12) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-3. 🎉 Merged PR [#11](https://github.com/crazyuploader/NetViz/pull/11) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-4. 🎉 Merged PR [#10](https://github.com/crazyuploader/NetViz/pull/10) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-5. 🎉 Merged PR [#6](https://github.com/crazyuploader/Speedtest-Servers/pull/6) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+1. 🎉 Merged PR [#1](https://github.com/crazyuploader/otel-java-annotation-example/pull/1) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
+2. 🔒 Closed issue [#25](https://github.com/crazyuploader/actions-change-detection/issues/25) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+3. 🎉 Merged PR [#24](https://github.com/crazyuploader/actions-change-detection/pull/24) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+4. 🎉 Merged PR [#12](https://github.com/crazyuploader/NetViz/pull/12) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+5. 🎉 Merged PR [#11](https://github.com/crazyuploader/NetViz/pull/11) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
 <!--END_SECTION:activity-->
 </details>
 
