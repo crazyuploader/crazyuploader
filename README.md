@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/crazyuploader/actions-change-detection/pull/24) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-2. 🔒 Closed issue [#23](https://github.com/crazyuploader/actions-change-detection/issues/23) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-3. 🎉 Merged PR [#22](https://github.com/crazyuploader/actions-change-detection/pull/22) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-4. 💪 Opened PR [#22](https://github.com/crazyuploader/actions-change-detection/pull/22) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-5. 🔒 Closed issue [#21](https://github.com/crazyuploader/actions-change-detection/issues/21) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+1. 🎉 Merged PR [#39](https://github.com/crazyuploader/als/pull/39) in [crazyuploader/als](https://github.com/crazyuploader/als)
+2. 🎉 Merged PR [#42](https://github.com/crazyuploader/als/pull/42) in [crazyuploader/als](https://github.com/crazyuploader/als)
+3. 🎉 Merged PR [#41](https://github.com/crazyuploader/als/pull/41) in [crazyuploader/als](https://github.com/crazyuploader/als)
+4. 🎉 Merged PR [#31](https://github.com/crazyuploader/als/pull/31) in [crazyuploader/als](https://github.com/crazyuploader/als)
+5. 🎉 Merged PR [#56](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/56) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
 <!--END_SECTION:activity-->
 </details>
 
