@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/crazyuploader/als/pull/39) in [crazyuploader/als](https://github.com/crazyuploader/als)
-2. 🎉 Merged PR [#42](https://github.com/crazyuploader/als/pull/42) in [crazyuploader/als](https://github.com/crazyuploader/als)
-3. 🎉 Merged PR [#41](https://github.com/crazyuploader/als/pull/41) in [crazyuploader/als](https://github.com/crazyuploader/als)
-4. 🎉 Merged PR [#31](https://github.com/crazyuploader/als/pull/31) in [crazyuploader/als](https://github.com/crazyuploader/als)
-5. 🎉 Merged PR [#56](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/56) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
+1. 🎉 Merged PR [#6](https://github.com/crazyuploader/Speedtest-Servers/pull/6) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+2. 🎉 Merged PR [#7](https://github.com/crazyuploader/Speedtest-Servers/pull/7) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+3. 🎉 Merged PR [#8](https://github.com/crazyuploader/Speedtest-Servers/pull/8) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+4. 🎉 Merged PR [#9](https://github.com/crazyuploader/Speedtest-Servers/pull/9) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+5. 🎉 Merged PR [#39](https://github.com/crazyuploader/als/pull/39) in [crazyuploader/als](https://github.com/crazyuploader/als)
 <!--END_SECTION:activity-->
 </details>
 
