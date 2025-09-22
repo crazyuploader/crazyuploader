@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/crazyuploader/otel-java-annotation-example/pull/4) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
-2. 🎉 Merged PR [#3](https://github.com/crazyuploader/otel-java-annotation-example/pull/3) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
-3. 🎉 Merged PR [#1](https://github.com/crazyuploader/otel-java-annotation-example/pull/1) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
-4. 🔒 Closed issue [#25](https://github.com/crazyuploader/actions-change-detection/issues/25) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
-5. 🎉 Merged PR [#24](https://github.com/crazyuploader/actions-change-detection/pull/24) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
+1. 🎉 Merged PR [#6](https://github.com/crazyuploader/otel-java-annotation-example/pull/6) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
+2. 🎉 Merged PR [#5](https://github.com/crazyuploader/otel-java-annotation-example/pull/5) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
+3. 🎉 Merged PR [#4](https://github.com/crazyuploader/otel-java-annotation-example/pull/4) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
+4. 🎉 Merged PR [#3](https://github.com/crazyuploader/otel-java-annotation-example/pull/3) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
+5. 🎉 Merged PR [#1](https://github.com/crazyuploader/otel-java-annotation-example/pull/1) in [crazyuploader/otel-java-annotation-example](https://github.com/crazyuploader/otel-java-annotation-example)
 <!--END_SECTION:activity-->
 </details>
 
