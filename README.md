@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1995](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 💪 Opened PR [#1995](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ❌ Assigned PR [#1995](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🔒 Closed issue [#5](https://github.com/crazyuploader/Interesting-RSS-Feeds/issues/5) in [crazyuploader/Interesting-RSS-Feeds](https://github.com/crazyuploader/Interesting-RSS-Feeds)
-5. 🔒 Closed issue [#1](https://github.com/crazyuploader/Interesting-RSS-Feeds/issues/1) in [crazyuploader/Interesting-RSS-Feeds](https://github.com/crazyuploader/Interesting-RSS-Feeds)
+1. 💪 Opened PR [#1995](https://github.com/SigNoz/signoz.io/pull/1995) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🔒 Closed issue [#5](https://github.com/crazyuploader/Interesting-RSS-Feeds/issues/5) in [crazyuploader/Interesting-RSS-Feeds](https://github.com/crazyuploader/Interesting-RSS-Feeds)
+3. 🔒 Closed issue [#1](https://github.com/crazyuploader/Interesting-RSS-Feeds/issues/1) in [crazyuploader/Interesting-RSS-Feeds](https://github.com/crazyuploader/Interesting-RSS-Feeds)
+4. 🎉 Merged PR [#3](https://github.com/crazyuploader/Interesting-RSS-Feeds/pull/3) in [crazyuploader/Interesting-RSS-Feeds](https://github.com/crazyuploader/Interesting-RSS-Feeds)
+5. 🎉 Merged PR [#2](https://github.com/crazyuploader/Interesting-RSS-Feeds/pull/2) in [crazyuploader/Interesting-RSS-Feeds](https://github.com/crazyuploader/Interesting-RSS-Feeds)
 <!--END_SECTION:activity-->
 </details>
 
