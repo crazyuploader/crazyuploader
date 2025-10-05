@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/crazyuploader/urban-train/pull/1) in [crazyuploader/urban-train](https://github.com/crazyuploader/urban-train)
-2. 💪 Opened PR [#2011](https://github.com/SigNoz/signoz.io/pull/2011) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🎉 Merged PR [#2009](https://github.com/SigNoz/signoz.io/pull/2009) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🎉 Merged PR [#3](https://github.com/crazyuploader/signoz-charts/pull/3) in [crazyuploader/signoz-charts](https://github.com/crazyuploader/signoz-charts)
-5. 🎉 Merged PR [#1](https://github.com/crazyuploader/signoz-charts/pull/1) in [crazyuploader/signoz-charts](https://github.com/crazyuploader/signoz-charts)
+1. 🎉 Merged PR [#3](https://github.com/crazyuploader/Ansible-Playbooks/pull/3) in [crazyuploader/Ansible-Playbooks](https://github.com/crazyuploader/Ansible-Playbooks)
+2. 🎉 Merged PR [#2](https://github.com/crazyuploader/Ansible-Playbooks/pull/2) in [crazyuploader/Ansible-Playbooks](https://github.com/crazyuploader/Ansible-Playbooks)
+3. 🎉 Merged PR [#1](https://github.com/crazyuploader/urban-train/pull/1) in [crazyuploader/urban-train](https://github.com/crazyuploader/urban-train)
+4. 💪 Opened PR [#2011](https://github.com/SigNoz/signoz.io/pull/2011) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🎉 Merged PR [#2009](https://github.com/SigNoz/signoz.io/pull/2009) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
