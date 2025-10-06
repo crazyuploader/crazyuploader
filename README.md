@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/crazyuploader/Python/pull/172) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-2. 🎉 Merged PR [#101](https://github.com/crazyuploader/OSL/pull/101) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
-3. 🎉 Merged PR [#59](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/59) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
-4. 🎉 Merged PR [#3](https://github.com/crazyuploader/Ansible-Playbooks/pull/3) in [crazyuploader/Ansible-Playbooks](https://github.com/crazyuploader/Ansible-Playbooks)
-5. 🎉 Merged PR [#2](https://github.com/crazyuploader/Ansible-Playbooks/pull/2) in [crazyuploader/Ansible-Playbooks](https://github.com/crazyuploader/Ansible-Playbooks)
+1. 🎉 Merged PR [#14](https://github.com/crazyuploader/NetViz/pull/14) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+2. 🎉 Merged PR [#172](https://github.com/crazyuploader/Python/pull/172) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
+3. 🎉 Merged PR [#101](https://github.com/crazyuploader/OSL/pull/101) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+4. 🎉 Merged PR [#59](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester/pull/59) in [crazyuploader/Ubuntu-Mirror-Speed-Tester](https://github.com/crazyuploader/Ubuntu-Mirror-Speed-Tester)
+5. 🎉 Merged PR [#3](https://github.com/crazyuploader/Ansible-Playbooks/pull/3) in [crazyuploader/Ansible-Playbooks](https://github.com/crazyuploader/Ansible-Playbooks)
 <!--END_SECTION:activity-->
 </details>
 
