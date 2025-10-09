@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2049](https://github.com/SigNoz/signoz.io/issues/2049) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ❌ Closed PR [#129](https://github.com/crazyuploader/Docker-Builder/pull/129) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-3. 🎉 Merged PR [#14](https://github.com/crazyuploader/NetViz/pull/14) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-4. 🎉 Merged PR [#172](https://github.com/crazyuploader/Python/pull/172) in [crazyuploader/Python](https://github.com/crazyuploader/Python)
-5. 🎉 Merged PR [#101](https://github.com/crazyuploader/OSL/pull/101) in [crazyuploader/OSL](https://github.com/crazyuploader/OSL)
+1. 🎉 Merged PR [#23](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper/pull/23) in [crazyuploader/Ubuntu-Mirrors-Scraper](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper)
+2. 🎉 Merged PR [#11](https://github.com/crazyuploader/Speedtest-Servers/pull/11) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+3. 🎉 Merged PR [#10](https://github.com/crazyuploader/Speedtest-Servers/pull/10) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
+4. ❗ Opened issue [#2049](https://github.com/SigNoz/signoz.io/issues/2049) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ❌ Closed PR [#129](https://github.com/crazyuploader/Docker-Builder/pull/129) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
