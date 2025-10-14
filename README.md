@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/crazyuploader/IMDb_Top_50/pull/120) in [crazyuploader/IMDb_Top_50](https://github.com/crazyuploader/IMDb_Top_50)
-2. 🎉 Merged PR [#23](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper/pull/23) in [crazyuploader/Ubuntu-Mirrors-Scraper](https://github.com/crazyuploader/Ubuntu-Mirrors-Scraper)
-3. 🎉 Merged PR [#11](https://github.com/crazyuploader/Speedtest-Servers/pull/11) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
-4. 🎉 Merged PR [#10](https://github.com/crazyuploader/Speedtest-Servers/pull/10) in [crazyuploader/Speedtest-Servers](https://github.com/crazyuploader/Speedtest-Servers)
-5. ❗ Opened issue [#2049](https://github.com/SigNoz/signoz.io/issues/2049) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ❌ Labeled PR [#2073](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 💪 Opened PR [#2073](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❌ Assigned PR [#2073](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❌ Labeled PR [#2071](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 💪 Opened PR [#2071](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
