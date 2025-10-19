@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-2. ❌ Assigned PR [#3](undefined) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-3. 💪 Opened PR [#19](undefined) in [crazyuploader/rclone_exporter](https://github.com/crazyuploader/rclone_exporter)
-4. 💪 Opened PR [#3](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
-5. 💪 Opened PR [#1](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
+1. ❌ Closed PR [#5](undefined) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+2. 💪 Opened PR [#3](undefined) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+3. ❌ Assigned PR [#3](undefined) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+4. 💪 Opened PR [#19](undefined) in [crazyuploader/rclone_exporter](https://github.com/crazyuploader/rclone_exporter)
+5. 💪 Opened PR [#3](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
 <!--END_SECTION:activity-->
 </details>
 
