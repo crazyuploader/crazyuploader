@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](undefined) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-2. 💪 Opened PR [#2099](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ❌ Assigned PR [#2099](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 💪 Opened PR [#10](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
-5. 💪 Opened PR [#9](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
+1.  Labeled issue [#1](https://github.com/crazyuploader/ubiquitous-garbanzo/issues/1) in [crazyuploader/ubiquitous-garbanzo](https://github.com/crazyuploader/ubiquitous-garbanzo)
+2.  Labeled issue [#1](https://github.com/crazyuploader/ubiquitous-garbanzo/issues/1) in [crazyuploader/ubiquitous-garbanzo](https://github.com/crazyuploader/ubiquitous-garbanzo)
+3. ❗ Opened issue [#1](https://github.com/crazyuploader/ubiquitous-garbanzo/issues/1) in [crazyuploader/ubiquitous-garbanzo](https://github.com/crazyuploader/ubiquitous-garbanzo)
+4.  Assigned issue [#1](https://github.com/crazyuploader/ubiquitous-garbanzo/issues/1) in [crazyuploader/ubiquitous-garbanzo](https://github.com/crazyuploader/ubiquitous-garbanzo)
+5. 💪 Opened PR [#30](undefined) in [crazyuploader/actions-change-detection](https://github.com/crazyuploader/actions-change-detection)
 <!--END_SECTION:activity-->
 </details>
 
