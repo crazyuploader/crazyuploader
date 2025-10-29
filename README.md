@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
-2. ❌ Labeled PR [#2123](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 💪 Opened PR [#2123](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ❌ Assigned PR [#2123](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 💪 Opened PR [#11](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
+1. 💪 Opened PR [#11](undefined) in [narmidm/k8s-pod-cpu-stressor](https://github.com/narmidm/k8s-pod-cpu-stressor)
+2. 💪 Opened PR [#18](undefined) in [crazyuploader/vigilant-pancake](https://github.com/crazyuploader/vigilant-pancake)
+3. ❌ Labeled PR [#2123](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 💪 Opened PR [#2123](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ❌ Assigned PR [#2123](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
