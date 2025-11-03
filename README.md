@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ARM64 & GHCR Support](https://github.com/crazyuploader/k8s-pod-cpu-stressor/releases/tag/v1.2.2) in [crazyuploader/k8s-pod-cpu-stressor](https://github.com/crazyuploader/k8s-pod-cpu-stressor)
-2. 💪 Opened PR [#9](undefined) in [crazyuploader/k8s-pod-cpu-stressor](https://github.com/crazyuploader/k8s-pod-cpu-stressor)
-3. ❌ Labeled PR [#2142](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 💪 Opened PR [#2142](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ❌ Assigned PR [#2142](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ❌ Labeled PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 💪 Opened PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❌ Assigned PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🚀 Published release [ARM64 & GHCR Support](https://github.com/crazyuploader/k8s-pod-cpu-stressor/releases/tag/v1.2.2) in [crazyuploader/k8s-pod-cpu-stressor](https://github.com/crazyuploader/k8s-pod-cpu-stressor)
+5. 💪 Opened PR [#9](undefined) in [crazyuploader/k8s-pod-cpu-stressor](https://github.com/crazyuploader/k8s-pod-cpu-stressor)
 <!--END_SECTION:activity-->
 </details>
 
