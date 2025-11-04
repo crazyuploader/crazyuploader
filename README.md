@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ❌ Closed PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ❌ Reopened PR [#2142](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ❌ Closed PR [#2142](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ❌ Labeled PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 💪 Opened PR [#2168](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ❌ Assigned PR [#2168](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❌ Reopened PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❌ Closed PR [#2156](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ❌ Reopened PR [#2142](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
