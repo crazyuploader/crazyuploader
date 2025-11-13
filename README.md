@@ -77,8 +77,8 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
 
 <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#2195](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ❌ Assigned PR [#2195](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 💪 Opened PR [#2195](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 💪 Opened PR [#2195](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❌ Assigned PR [#2195](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 4. ❌ Assigned PR [#169](undefined) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
 5. 💪 Opened PR [#169](undefined) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
 <!--END_SECTION:activity-->
