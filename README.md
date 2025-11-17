@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [trakt/discord-presence](https://github.com/trakt/discord-presence)
-2. 💪 Opened PR [#4](undefined) in [crazyuploader/github-actions-docker-runner](https://github.com/crazyuploader/github-actions-docker-runner)
-3. ❌ Assigned PR [#4](undefined) in [crazyuploader/github-actions-docker-runner](https://github.com/crazyuploader/github-actions-docker-runner)
-4. ❌ Labeled PR [#2209](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 💪 Opened PR [#2209](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🗣 Commented on [#2209](https://github.com/SigNoz/signoz.io/pull/2209#issuecomment-3540459441) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🗣 Commented on [#2073](https://github.com/SigNoz/signoz.io/pull/2073#issuecomment-3540458126) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 💪 Opened PR [#1](undefined) in [trakt/discord-presence](https://github.com/trakt/discord-presence)
+4. 💪 Opened PR [#4](undefined) in [crazyuploader/github-actions-docker-runner](https://github.com/crazyuploader/github-actions-docker-runner)
+5. ❌ Assigned PR [#4](undefined) in [crazyuploader/github-actions-docker-runner](https://github.com/crazyuploader/github-actions-docker-runner)
 <!--END_SECTION:activity-->
 </details>
 
