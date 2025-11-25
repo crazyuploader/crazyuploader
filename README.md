@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#2258](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ❌ Assigned PR [#2258](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 💪 Opened PR [#2258](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 💪 Opened PR [#179](undefined) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
-5. ❌ Assigned PR [#179](undefined) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
+1. 🔒 Closed issue [#2049](https://github.com/SigNoz/signoz.io/issues/2049) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ❌ Labeled PR [#2258](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❌ Assigned PR [#2258](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 💪 Opened PR [#2258](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 💪 Opened PR [#179](undefined) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
 <!--END_SECTION:activity-->
 </details>
 
