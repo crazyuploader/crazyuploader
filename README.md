@@ -80,7 +80,7 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
 2.  Labeled issue [#2294](https://github.com/SigNoz/signoz.io/issues/2294) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 3. ❗ Opened issue [#2294](https://github.com/SigNoz/signoz.io/issues/2294) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 4.  Assigned issue [#2294](https://github.com/SigNoz/signoz.io/issues/2294) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🗣 Commented on [#2263](https://github.com/SigNoz/signoz.io/pull/2263#issuecomment-3600709573) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ❌ Merged PR [#2263](undefined) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
