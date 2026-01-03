@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/crazyuploader/rdctl-bot/pull/29) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-2. ℹ️ Assigned PR [#29](https://github.com/crazyuploader/rdctl-bot/pull/29) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-3. ❌ Closed PR [#12](https://github.com/crazyuploader/rdctl-bot/pull/12) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-4. 🎉 Merged PR [#11](https://github.com/crazyuploader/rdctl-bot/pull/11) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
-5. 🎉 Merged PR [#2375](https://github.com/SigNoz/signoz.io/pull/2375) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#29](https://github.com/crazyuploader/rdctl-bot/pull/29) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+2. 💪 Opened PR [#29](https://github.com/crazyuploader/rdctl-bot/pull/29) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+3. ℹ️ Assigned PR [#29](https://github.com/crazyuploader/rdctl-bot/pull/29) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+4. ❌ Closed PR [#12](https://github.com/crazyuploader/rdctl-bot/pull/12) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
+5. 🎉 Merged PR [#11](https://github.com/crazyuploader/rdctl-bot/pull/11) in [crazyuploader/rdctl-bot](https://github.com/crazyuploader/rdctl-bot)
 <!--END_SECTION:activity-->
 </details>
 
