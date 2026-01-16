@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/crazyuploader/NetViz/pull/37) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-2. 🎉 Merged PR [#30](https://github.com/crazyuploader/NetViz/pull/30) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-3. 💪 Opened PR [#30](https://github.com/crazyuploader/NetViz/pull/30) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
-4. ℹ️ Labeled PR [#2530](https://github.com/SigNoz/signoz.io/pull/2530) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 💪 Opened PR [#2530](https://github.com/SigNoz/signoz.io/pull/2530) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#1](https://github.com/trakt/discord-presence/pull/1) in [trakt/discord-presence](https://github.com/trakt/discord-presence)
+2. 💪 Opened PR [#37](https://github.com/crazyuploader/NetViz/pull/37) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+3. 🎉 Merged PR [#30](https://github.com/crazyuploader/NetViz/pull/30) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+4. 💪 Opened PR [#30](https://github.com/crazyuploader/NetViz/pull/30) in [crazyuploader/NetViz](https://github.com/crazyuploader/NetViz)
+5. ℹ️ Labeled PR [#2530](https://github.com/SigNoz/signoz.io/pull/2530) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
