@@ -76,10 +76,10 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/crazyuploader/watchdog/pull/9) in [crazyuploader/watchdog](https://github.com/crazyuploader/watchdog)
-2. ℹ️ Assigned PR [#9](https://github.com/crazyuploader/watchdog/pull/9) in [crazyuploader/watchdog](https://github.com/crazyuploader/watchdog)
-3. 🎉 Merged PR [#2546](https://github.com/SigNoz/signoz.io/pull/2546) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Labeled PR [#2546](https://github.com/SigNoz/signoz.io/pull/2546) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#9](https://github.com/crazyuploader/watchdog/pull/9) in [crazyuploader/watchdog](https://github.com/crazyuploader/watchdog)
+2. 💪 Opened PR [#9](https://github.com/crazyuploader/watchdog/pull/9) in [crazyuploader/watchdog](https://github.com/crazyuploader/watchdog)
+3. ℹ️ Assigned PR [#9](https://github.com/crazyuploader/watchdog/pull/9) in [crazyuploader/watchdog](https://github.com/crazyuploader/watchdog)
+4. 🎉 Merged PR [#2546](https://github.com/SigNoz/signoz.io/pull/2546) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 5. ℹ️ Labeled PR [#2546](https://github.com/SigNoz/signoz.io/pull/2546) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
