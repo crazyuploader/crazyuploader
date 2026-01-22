@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/crazyuploader/one-click-hugo-cms/pull/20#issuecomment-3781916231) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-2. ℹ️ Assigned issue [#2560](https://github.com/SigNoz/signoz.io/issues/2560) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ℹ️ Labeled issue [#2560](https://github.com/SigNoz/signoz.io/issues/2560) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Labeled issue [#2560](https://github.com/SigNoz/signoz.io/issues/2560) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ❗ Opened issue [#2560](https://github.com/SigNoz/signoz.io/issues/2560) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 💪 Opened PR [#194](https://github.com/SigNoz/dashboards/pull/194) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
+2. ℹ️ Assigned PR [#194](https://github.com/SigNoz/dashboards/pull/194) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
+3. 🗣 Commented on [#20](https://github.com/crazyuploader/one-click-hugo-cms/pull/20#issuecomment-3781916231) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+4. ℹ️ Assigned issue [#2560](https://github.com/SigNoz/signoz.io/issues/2560) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Labeled issue [#2560](https://github.com/SigNoz/signoz.io/issues/2560) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
