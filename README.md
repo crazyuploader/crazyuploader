@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2579](https://github.com/SigNoz/signoz.io/pull/2579#issuecomment-3789631294) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ℹ️ Labeled PR [#2579](https://github.com/SigNoz/signoz.io/pull/2579) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🗣 Commented on [#21](https://github.com/crazyuploader/one-click-hugo-cms/pull/21#issuecomment-3790376692) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+2. 🗣 Commented on [#2579](https://github.com/SigNoz/signoz.io/pull/2579#issuecomment-3789631294) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 3. ℹ️ Labeled PR [#2579](https://github.com/SigNoz/signoz.io/pull/2579) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 💪 Opened PR [#2579](https://github.com/SigNoz/signoz.io/pull/2579) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Assigned PR [#2579](https://github.com/SigNoz/signoz.io/pull/2579) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ℹ️ Labeled PR [#2579](https://github.com/SigNoz/signoz.io/pull/2579) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 💪 Opened PR [#2579](https://github.com/SigNoz/signoz.io/pull/2579) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
