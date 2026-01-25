@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/crazyuploader/caddy/pull/18) in [crazyuploader/caddy](https://github.com/crazyuploader/caddy)
-2. ℹ️ Labeled issue [#2580](https://github.com/SigNoz/signoz.io/issues/2580) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ℹ️ Labeled issue [#2580](https://github.com/SigNoz/signoz.io/issues/2580) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ❗ Opened issue [#2580](https://github.com/SigNoz/signoz.io/issues/2580) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Assigned issue [#2580](https://github.com/SigNoz/signoz.io/issues/2580) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ℹ️ Assigned issue [#2585](https://github.com/SigNoz/signoz.io/issues/2585) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled issue [#2585](https://github.com/SigNoz/signoz.io/issues/2585) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ℹ️ Labeled issue [#2585](https://github.com/SigNoz/signoz.io/issues/2585) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❗ Opened issue [#2585](https://github.com/SigNoz/signoz.io/issues/2585) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 💪 Opened PR [#196](https://github.com/SigNoz/dashboards/pull/196) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
 <!--END_SECTION:activity-->
 </details>
 
