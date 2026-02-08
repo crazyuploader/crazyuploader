@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/crazyuploader/one-click-hugo-cms/pull/22#issuecomment-3864688156) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
-2. 🎉 Merged PR [#2399](https://github.com/SigNoz/signoz.io/pull/2399) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🗣 Commented on [#2399](https://github.com/SigNoz/signoz.io/pull/2399#issuecomment-3860225797) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🎉 Merged PR [#2626](https://github.com/SigNoz/signoz.io/pull/2626) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🗣 Commented on [#2626](https://github.com/SigNoz/signoz.io/pull/2626#issuecomment-3839362052) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#2348](https://github.com/SigNoz/signoz.io/pull/2348) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🗣 Commented on [#22](https://github.com/crazyuploader/one-click-hugo-cms/pull/22#issuecomment-3864688156) in [crazyuploader/one-click-hugo-cms](https://github.com/crazyuploader/one-click-hugo-cms)
+3. 🎉 Merged PR [#2399](https://github.com/SigNoz/signoz.io/pull/2399) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🗣 Commented on [#2399](https://github.com/SigNoz/signoz.io/pull/2399#issuecomment-3860225797) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🎉 Merged PR [#2626](https://github.com/SigNoz/signoz.io/pull/2626) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
