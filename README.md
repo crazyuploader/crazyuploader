@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2902](https://github.com/SigNoz/signoz.io/pull/2902#issuecomment-4062728890) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ℹ️ Labeled PR [#2902](https://github.com/SigNoz/signoz.io/pull/2902) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 💪 Opened PR [#2902](https://github.com/SigNoz/signoz.io/pull/2902) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Assigned PR [#2902](https://github.com/SigNoz/signoz.io/pull/2902) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🔒 Closed issue [#2585](https://github.com/SigNoz/signoz.io/issues/2585) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#11](https://github.com/narmidm/k8s-pod-cpu-stressor/pull/11) in [narmidm/k8s-pod-cpu-stressor](https://github.com/narmidm/k8s-pod-cpu-stressor)
+2. 🗣 Commented on [#2902](https://github.com/SigNoz/signoz.io/pull/2902#issuecomment-4062728890) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ℹ️ Labeled PR [#2902](https://github.com/SigNoz/signoz.io/pull/2902) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 💪 Opened PR [#2902](https://github.com/SigNoz/signoz.io/pull/2902) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Assigned PR [#2902](https://github.com/SigNoz/signoz.io/pull/2902) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
