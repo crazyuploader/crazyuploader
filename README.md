@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2911](https://github.com/SigNoz/signoz.io/issues/2911) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ℹ️ Labeled issue [#2911](https://github.com/SigNoz/signoz.io/issues/2911) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ❗ Opened issue [#2911](https://github.com/SigNoz/signoz.io/issues/2911) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Assigned issue [#2911](https://github.com/SigNoz/signoz.io/issues/2911) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#11](https://github.com/narmidm/k8s-pod-cpu-stressor/pull/11) in [narmidm/k8s-pod-cpu-stressor](https://github.com/narmidm/k8s-pod-cpu-stressor)
+1. ℹ️ Labeled issue [#2918](https://github.com/SigNoz/signoz.io/issues/2918) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled issue [#2918](https://github.com/SigNoz/signoz.io/issues/2918) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❗ Opened issue [#2918](https://github.com/SigNoz/signoz.io/issues/2918) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ℹ️ Assigned issue [#2918](https://github.com/SigNoz/signoz.io/issues/2918) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Labeled issue [#2911](https://github.com/SigNoz/signoz.io/issues/2911) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
