@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#284](https://github.com/breml/terraform-provider-uptimekuma/pull/284) in [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma)
-2. 🗣 Commented on [#271](https://github.com/breml/terraform-provider-uptimekuma/issues/271#issuecomment-4186844389) in [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma)
-3. 🎉 Merged PR [#2759](https://github.com/SigNoz/signoz.io/pull/2759) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🎉 Merged PR [#2490](https://github.com/SigNoz/signoz.io/pull/2490) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🗣 Commented on [#3015](https://github.com/SigNoz/signoz.io/pull/3015#issuecomment-4183306312) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🗣 Commented on [#3019](https://github.com/SigNoz/signoz.io/pull/3019#issuecomment-4189012648) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled PR [#3019](https://github.com/SigNoz/signoz.io/pull/3019) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ℹ️ Labeled PR [#3019](https://github.com/SigNoz/signoz.io/pull/3019) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 💪 Opened PR [#3019](https://github.com/SigNoz/signoz.io/pull/3019) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Assigned PR [#3019](https://github.com/SigNoz/signoz.io/pull/3019) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
