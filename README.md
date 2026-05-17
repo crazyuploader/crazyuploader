@@ -2,7 +2,7 @@
 
 My name is **Jugal Kishore**. Crazy about computers, networks, and stars. I'm from **Agra, India**.
 
-Currently, things that I am most interested in right now: ***Go, Kubernetes, n8n, Grafana, Prometheus, and other automation stuff.***
+Currently, things that I am most interested in right now: ***Go, Kubernetes, SigNoz, Prometheus, and other automation stuff like Ansible, OpenTofu.***
 
 [![Header](https://raw.githubusercontent.com/crazyuploader/crazyuploader/master/header.svg "Header")](https://devjugal.com/)
 
