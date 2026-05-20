@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#364](https://github.com/SigNoz/dashboards/pull/364) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
-2. 🎉 Merged PR [#3248](https://github.com/SigNoz/signoz.io/pull/3248) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🎉 Merged PR [#3289](https://github.com/SigNoz/signoz.io/pull/3289) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🎉 Merged PR [#3290](https://github.com/SigNoz/signoz.io/pull/3290) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#3342](https://github.com/SigNoz/signoz.io/pull/3342) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#3336](https://github.com/SigNoz/signoz.io/pull/3336) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🎉 Merged PR [#3329](https://github.com/SigNoz/signoz.io/pull/3329) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 🎉 Merged PR [#3305](https://github.com/SigNoz/signoz.io/pull/3305) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🎉 Merged PR [#364](https://github.com/SigNoz/dashboards/pull/364) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
+5. 🎉 Merged PR [#3248](https://github.com/SigNoz/signoz.io/pull/3248) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
