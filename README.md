@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#368](https://github.com/SigNoz/dashboards/pull/368) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
-2. ℹ️ Labeled issue [#3363](https://github.com/SigNoz/signoz.io/issues/3363) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ℹ️ Labeled issue [#3363](https://github.com/SigNoz/signoz.io/issues/3363) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ❗ Opened issue [#3363](https://github.com/SigNoz/signoz.io/issues/3363) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Assigned issue [#3363](https://github.com/SigNoz/signoz.io/issues/3363) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 💪 Opened PR [#153](https://github.com/crazyuploader/Docker-Builder/pull/153) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+2. ℹ️ Assigned PR [#153](https://github.com/crazyuploader/Docker-Builder/pull/153) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
+3. 🎉 Merged PR [#368](https://github.com/SigNoz/dashboards/pull/368) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
+4. ℹ️ Labeled issue [#3363](https://github.com/SigNoz/signoz.io/issues/3363) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Labeled issue [#3363](https://github.com/SigNoz/signoz.io/issues/3363) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
