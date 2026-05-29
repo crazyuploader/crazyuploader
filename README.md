@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/crazyuploader/Docker-Builder/pull/153) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
-2. 🔒 Closed issue [#3379](https://github.com/SigNoz/signoz.io/issues/3379) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ℹ️ Labeled issue [#3379](https://github.com/SigNoz/signoz.io/issues/3379) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Labeled issue [#3379](https://github.com/SigNoz/signoz.io/issues/3379) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ❗ Opened issue [#3379](https://github.com/SigNoz/signoz.io/issues/3379) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ℹ️ Labeled issue [#3385](https://github.com/SigNoz/signoz.io/issues/3385) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled issue [#3385](https://github.com/SigNoz/signoz.io/issues/3385) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ℹ️ Assigned issue [#3385](https://github.com/SigNoz/signoz.io/issues/3385) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❗ Opened issue [#3385](https://github.com/SigNoz/signoz.io/issues/3385) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🎉 Merged PR [#153](https://github.com/crazyuploader/Docker-Builder/pull/153) in [crazyuploader/Docker-Builder](https://github.com/crazyuploader/Docker-Builder)
 <!--END_SECTION:activity-->
 </details>
 
