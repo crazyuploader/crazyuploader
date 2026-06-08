@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1282](https://github.com/NuvioMedia/NuvioMobile/issues/1282) in [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile)
-2. ❗ Opened issue [#1282](https://github.com/NuvioMedia/NuvioMobile/issues/1282) in [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile)
-3. 🗣 Commented on [#3431](https://github.com/SigNoz/signoz.io/pull/3431#issuecomment-4635029836) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🗣 Commented on [#3431](https://github.com/SigNoz/signoz.io/pull/3431#issuecomment-4629287258) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Labeled PR [#3431](https://github.com/SigNoz/signoz.io/pull/3431) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#3412](https://github.com/SigNoz/signoz.io/pull/3412) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled issue [#1282](https://github.com/NuvioMedia/NuvioMobile/issues/1282) in [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile)
+3. ❗ Opened issue [#1282](https://github.com/NuvioMedia/NuvioMobile/issues/1282) in [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile)
+4. 🗣 Commented on [#3431](https://github.com/SigNoz/signoz.io/pull/3431#issuecomment-4635029836) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🗣 Commented on [#3431](https://github.com/SigNoz/signoz.io/pull/3431#issuecomment-4629287258) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
