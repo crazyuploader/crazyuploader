@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3431](https://github.com/SigNoz/signoz.io/pull/3431) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 🔒 Closed issue [#2721](https://github.com/SigNoz/signoz.io/issues/2721) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🎉 Merged PR [#370](https://github.com/SigNoz/dashboards/pull/370) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
-4. 🎉 Merged PR [#3412](https://github.com/SigNoz/signoz.io/pull/3412) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Labeled issue [#1282](https://github.com/NuvioMedia/NuvioMobile/issues/1282) in [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile)
+1. 🎉 Merged PR [#3393](https://github.com/SigNoz/signoz.io/pull/3393) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🎉 Merged PR [#3431](https://github.com/SigNoz/signoz.io/pull/3431) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 🔒 Closed issue [#2721](https://github.com/SigNoz/signoz.io/issues/2721) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🎉 Merged PR [#370](https://github.com/SigNoz/dashboards/pull/370) in [SigNoz/dashboards](https://github.com/SigNoz/dashboards)
+5. 🎉 Merged PR [#3412](https://github.com/SigNoz/signoz.io/pull/3412) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
