@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ℹ️ Labeled PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 💪 Opened PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Assigned PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Labeled PR [#3742](https://github.com/SigNoz/signoz.io/pull/3742) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#37](https://github.com/crazyuploader/zfs-dash/pull/37) in [crazyuploader/zfs-dash](https://github.com/crazyuploader/zfs-dash)
+2. 💪 Opened PR [#37](https://github.com/crazyuploader/zfs-dash/pull/37) in [crazyuploader/zfs-dash](https://github.com/crazyuploader/zfs-dash)
+3. ℹ️ Labeled PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ℹ️ Labeled PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 💪 Opened PR [#3744](https://github.com/SigNoz/signoz.io/pull/3744) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
