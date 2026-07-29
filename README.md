@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3722](https://github.com/SigNoz/signoz.io/pull/3722#issuecomment-5116307220) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 🎉 Merged PR [#3852](https://github.com/SigNoz/signoz.io/pull/3852) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ℹ️ Labeled PR [#3852](https://github.com/SigNoz/signoz.io/pull/3852) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. ℹ️ Labeled PR [#3852](https://github.com/SigNoz/signoz.io/pull/3852) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. ℹ️ Assigned PR [#3852](https://github.com/SigNoz/signoz.io/pull/3852) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ❌ Closed PR [#10](https://github.com/crazyuploader/helm-charts/pull/10) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
+2. 🗣 Commented on [#10](https://github.com/crazyuploader/helm-charts/pull/10#issuecomment-5122034915) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
+3. ❌ Closed PR [#12](https://github.com/crazyuploader/helm-charts/pull/12) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
+4. 🎉 Merged PR [#6](https://github.com/crazyuploader/helm-charts/pull/6) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
+5. 💪 Opened PR [#6](https://github.com/crazyuploader/helm-charts/pull/6) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
 <!--END_SECTION:activity-->
 </details>
 
