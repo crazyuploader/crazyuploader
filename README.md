@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3508](https://github.com/SigNoz/signoz.io/pull/3508) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ❌ Closed PR [#10](https://github.com/crazyuploader/helm-charts/pull/10) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
-3. 🗣 Commented on [#10](https://github.com/crazyuploader/helm-charts/pull/10#issuecomment-5122034915) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
-4. ❌ Closed PR [#12](https://github.com/crazyuploader/helm-charts/pull/12) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
-5. 🎉 Merged PR [#6](https://github.com/crazyuploader/helm-charts/pull/6) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
+1. ℹ️ Labeled PR [#3713](https://github.com/SigNoz/signoz.io/pull/3713) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled issue [#3866](https://github.com/SigNoz/signoz.io/issues/3866) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ℹ️ Labeled issue [#3866](https://github.com/SigNoz/signoz.io/issues/3866) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❗ Opened issue [#3866](https://github.com/SigNoz/signoz.io/issues/3866) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Assigned issue [#3866](https://github.com/SigNoz/signoz.io/issues/3866) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
