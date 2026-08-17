@@ -76,7 +76,7 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3152](https://github.com/SigNoz/signoz.io/pull/3152#issuecomment-5312228427) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ℹ️ Labeled PR [#3152](https://github.com/SigNoz/signoz.io/pull/3152) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 2. ❗ Opened issue [#3996](https://github.com/SigNoz/signoz.io/issues/3996) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 3. ℹ️ Labeled issue [#3996](https://github.com/SigNoz/signoz.io/issues/3996) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 4. ℹ️ Labeled issue [#3996](https://github.com/SigNoz/signoz.io/issues/3996) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
