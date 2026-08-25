@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#4045](https://github.com/SigNoz/signoz.io/pull/4045) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 💪 Opened PR [#4045](https://github.com/SigNoz/signoz.io/pull/4045) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ℹ️ Assigned PR [#4045](https://github.com/SigNoz/signoz.io/pull/4045) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🎉 Merged PR [#17](https://github.com/crazyuploader/helm-charts/pull/17) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
-5. 🗣 Commented on [#17](https://github.com/crazyuploader/helm-charts/pull/17#issuecomment-5385097459) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
+1. 🎉 Merged PR [#4041](https://github.com/SigNoz/signoz.io/pull/4041) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled PR [#4045](https://github.com/SigNoz/signoz.io/pull/4045) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 💪 Opened PR [#4045](https://github.com/SigNoz/signoz.io/pull/4045) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ℹ️ Assigned PR [#4045](https://github.com/SigNoz/signoz.io/pull/4045) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🎉 Merged PR [#17](https://github.com/crazyuploader/helm-charts/pull/17) in [crazyuploader/helm-charts](https://github.com/crazyuploader/helm-charts)
 <!--END_SECTION:activity-->
 </details>
 
