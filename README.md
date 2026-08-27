@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4040](https://github.com/SigNoz/signoz.io/issues/4040#issuecomment-5437885449) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 🔒 Closed issue [#4040](https://github.com/SigNoz/signoz.io/issues/4040) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🗣 Commented on [#4064](https://github.com/SigNoz/signoz.io/issues/4064#issuecomment-5437835756) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🔒 Closed issue [#4064](https://github.com/SigNoz/signoz.io/issues/4064) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#3530](https://github.com/SigNoz/signoz.io/pull/3530) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ❗ Opened issue [#4072](https://github.com/SigNoz/signoz.io/issues/4072) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Assigned issue [#4072](https://github.com/SigNoz/signoz.io/issues/4072) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ℹ️ Labeled issue [#4072](https://github.com/SigNoz/signoz.io/issues/4072) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ℹ️ Labeled issue [#4072](https://github.com/SigNoz/signoz.io/issues/4072) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Unlabeled PR [#4053](https://github.com/SigNoz/signoz.io/pull/4053) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
