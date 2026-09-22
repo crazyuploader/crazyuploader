@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SigNoz/mobile-monitoring-sample-apps/pull/3) in [SigNoz/mobile-monitoring-sample-apps](https://github.com/SigNoz/mobile-monitoring-sample-apps)
-2. 💪 Opened PR [#3](https://github.com/SigNoz/mobile-monitoring-sample-apps/pull/3) in [SigNoz/mobile-monitoring-sample-apps](https://github.com/SigNoz/mobile-monitoring-sample-apps)
-3. ℹ️ Labeled PR [#4218](https://github.com/SigNoz/signoz.io/pull/4218) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🎉 Merged PR [#4207](https://github.com/SigNoz/signoz.io/pull/4207) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🎉 Merged PR [#4204](https://github.com/SigNoz/signoz.io/pull/4204) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. ℹ️ Labeled PR [#4222](https://github.com/SigNoz/signoz.io/pull/4222) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. ℹ️ Labeled PR [#4222](https://github.com/SigNoz/signoz.io/pull/4222) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 💪 Opened PR [#4222](https://github.com/SigNoz/signoz.io/pull/4222) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ℹ️ Assigned PR [#4222](https://github.com/SigNoz/signoz.io/pull/4222) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Assigned PR [#12944](https://github.com/SigNoz/signoz/pull/12944) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 <!--END_SECTION:activity-->
 </details>
 
