@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4011](https://github.com/SigNoz/signoz.io/pull/4011#issuecomment-6196847206) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. 🗣 Commented on [#3615](https://github.com/SigNoz/signoz.io/pull/3615#issuecomment-6196845872) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. 🗣 Commented on [#4172](https://github.com/SigNoz/signoz.io/pull/4172#issuecomment-6196842912) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🗣 Commented on [#100684](https://github.com/anthropics/claude-code/issues/100684#issuecomment-6188998132) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-5. 🗣 Commented on [#4172](https://github.com/SigNoz/signoz.io/pull/4172#issuecomment-6196898748) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🎉 Merged PR [#4343](https://github.com/SigNoz/signoz.io/pull/4343) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🗣 Commented on [#4011](https://github.com/SigNoz/signoz.io/pull/4011#issuecomment-6196847206) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 🗣 Commented on [#3615](https://github.com/SigNoz/signoz.io/pull/3615#issuecomment-6196845872) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🗣 Commented on [#4172](https://github.com/SigNoz/signoz.io/pull/4172#issuecomment-6196842912) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🗣 Commented on [#100684](https://github.com/anthropics/claude-code/issues/100684#issuecomment-6188998132) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 </details>
 
