@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/crazyuploader/changelog-805-test/pull/33#issuecomment-6467599802) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
-2. 🎉 Merged PR [#13291](https://github.com/SigNoz/signoz/pull/13291) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-3. 🔒 Closed issue [#4356](https://github.com/SigNoz/signoz.io/issues/4356) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-4. 🔒 Closed issue [#4367](https://github.com/SigNoz/signoz.io/issues/4367) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-5. 🔒 Closed issue [#4370](https://github.com/SigNoz/signoz.io/issues/4370) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+1. 🗣 Commented on [#38](https://github.com/crazyuploader/changelog-805-test/pull/38#issuecomment-6468038571) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
+2. 🗣 Commented on [#33](https://github.com/crazyuploader/changelog-805-test/pull/33#issuecomment-6467599802) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
+3. 🎉 Merged PR [#13291](https://github.com/SigNoz/signoz/pull/13291) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+4. 🔒 Closed issue [#4356](https://github.com/SigNoz/signoz.io/issues/4356) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. 🔒 Closed issue [#4367](https://github.com/SigNoz/signoz.io/issues/4367) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
