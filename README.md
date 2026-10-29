@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/Junglee-Labs/changelog-805-mq/pull/6) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
-2. ℹ️ Labeled PR [#6](https://github.com/Junglee-Labs/changelog-805-mq/pull/6) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
-3. 💪 Opened PR [#6](https://github.com/Junglee-Labs/changelog-805-mq/pull/6) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
-4. ❌ Closed PR [#5](https://github.com/Junglee-Labs/changelog-805-mq/pull/5) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
-5. ❌ Closed PR [#4](https://github.com/Junglee-Labs/changelog-805-mq/pull/4) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
+1. 🎉 Merged PR [#4378](https://github.com/SigNoz/signoz.io/pull/4378) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🎉 Merged PR [#4372](https://github.com/SigNoz/signoz.io/pull/4372) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. 🎉 Merged PR [#4371](https://github.com/SigNoz/signoz.io/pull/4371) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. 🗣 Commented on [#6](https://github.com/Junglee-Labs/changelog-805-mq/pull/6#issuecomment-6489589281) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
+5. 🗣 Commented on [#5](https://github.com/Junglee-Labs/changelog-805-mq/pull/5#issuecomment-6488751886) in [Junglee-Labs/changelog-805-mq](https://github.com/Junglee-Labs/changelog-805-mq)
 <!--END_SECTION:activity-->
 </details>
 
