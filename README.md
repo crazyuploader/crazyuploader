@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#4257](https://github.com/SigNoz/signoz.io/pull/4257) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-2. ❌ Closed PR [#4379](https://github.com/SigNoz/signoz.io/pull/4379) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
-3. ❌ Closed PR [#45](https://github.com/crazyuploader/changelog-805-test/pull/45) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
-4. ❌ Closed PR [#44](https://github.com/crazyuploader/changelog-805-test/pull/44) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
-5. ❌ Closed PR [#43](https://github.com/crazyuploader/changelog-805-test/pull/43) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
+1. 🗣 Commented on [#3924](https://github.com/SigNoz/signoz.io/pull/3924#issuecomment-6600733681) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+2. 🗣 Commented on [#4201](https://github.com/SigNoz/signoz.io/pull/4201#issuecomment-6600700838) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+3. ❌ Closed PR [#3924](https://github.com/SigNoz/signoz.io/pull/3924) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+4. ❌ Closed PR [#4201](https://github.com/SigNoz/signoz.io/pull/4201) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
+5. ℹ️ Labeled PR [#4257](https://github.com/SigNoz/signoz.io/pull/4257) in [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io)
 <!--END_SECTION:activity-->
 </details>
 
