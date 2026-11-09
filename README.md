@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13430](https://github.com/SigNoz/signoz/issues/13430#issuecomment-6708224339) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-2. ❌ Closed PR [#45](https://github.com/crazyuploader/changelog-805-test/pull/45) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
-3. ❌ Closed PR [#44](https://github.com/crazyuploader/changelog-805-test/pull/44) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
-4. ❌ Closed PR [#43](https://github.com/crazyuploader/changelog-805-test/pull/43) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
-5. ℹ️ Labeled PR [#44](https://github.com/crazyuploader/changelog-805-test/pull/44) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
+1. ℹ️ Assigned PR [#13491](https://github.com/SigNoz/signoz/pull/13491) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+2. 💪 Opened PR [#13491](https://github.com/SigNoz/signoz/pull/13491) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. 🗣 Commented on [#13430](https://github.com/SigNoz/signoz/issues/13430#issuecomment-6708224339) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+4. ❌ Closed PR [#45](https://github.com/crazyuploader/changelog-805-test/pull/45) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
+5. ❌ Closed PR [#44](https://github.com/crazyuploader/changelog-805-test/pull/44) in [crazyuploader/changelog-805-test](https://github.com/crazyuploader/changelog-805-test)
 <!--END_SECTION:activity-->
 </details>
 
