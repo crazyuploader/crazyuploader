@@ -76,11 +76,11 @@ Currently, things that I am most interested in right now: ***Go, Kubernetes, Sig
     <summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#56](https://github.com/SigNoz/primus.workflows/pull/56) in [SigNoz/primus.workflows](https://github.com/SigNoz/primus.workflows)
-2. 💪 Opened PR [#56](https://github.com/SigNoz/primus.workflows/pull/56) in [SigNoz/primus.workflows](https://github.com/SigNoz/primus.workflows)
-3. 🎉 Merged PR [#13512](https://github.com/SigNoz/signoz/pull/13512) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-4. ℹ️ Assigned PR [#13512](https://github.com/SigNoz/signoz/pull/13512) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
-5. ℹ️ Labeled PR [#13512](https://github.com/SigNoz/signoz/pull/13512) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
+1. ❌ Closed PR [#1](https://github.com/crazyuploader/changelog-805-fork/pull/1) in [crazyuploader/changelog-805-fork](https://github.com/crazyuploader/changelog-805-fork)
+2. 💪 Opened PR [#1](https://github.com/crazyuploader/changelog-805-fork/pull/1) in [crazyuploader/changelog-805-fork](https://github.com/crazyuploader/changelog-805-fork)
+3. ℹ️ Assigned PR [#56](https://github.com/SigNoz/primus.workflows/pull/56) in [SigNoz/primus.workflows](https://github.com/SigNoz/primus.workflows)
+4. 💪 Opened PR [#56](https://github.com/SigNoz/primus.workflows/pull/56) in [SigNoz/primus.workflows](https://github.com/SigNoz/primus.workflows)
+5. 🎉 Merged PR [#13512](https://github.com/SigNoz/signoz/pull/13512) in [SigNoz/signoz](https://github.com/SigNoz/signoz)
 <!--END_SECTION:activity-->
 </details>
 
